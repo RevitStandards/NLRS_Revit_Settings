@@ -1,0 +1,1155 @@
+d-16-000	Funderingskonstructie
+d-16-001	strokenfundering 300x400 mm	d-16-000
+d-16-002	strokenfundering 300x500 mm	d-16-000
+d-16-003	strokenfundering 300x600 mm	d-16-000
+d-16-004	strokenfundering 350x400 mm	d-16-000
+d-16-005	strokenfundering 350x500 mm	d-16-000
+d-16-006	strokenfundering 350x600 mm	d-16-000
+d-16-007	strokenfundering 400x400 mm	d-16-000
+d-16-008	strokenfundering 400x500 mm	d-16-000
+d-16-009	strokenfundering 400x600 mm	d-16-000
+d-16-010	strokenfundering	d-16-000
+
+d-17-000	Paalfunderingen
+d-17-001	paalfundering rond 150 mm	d-17-000
+d-17-002	paalfundering rond 200 mm	d-17-000
+d-17-003	paalfundering rond 250 mm	d-17-000
+d-17-004	paalfundering rond 300 mm	d-17-000
+d-17-005	paalfundering rond 350 mm	d-17-000
+d-17-006	paalfundering rond 400 mm	d-17-000
+d-17-051	paalfundering vierkant 150 mm	d-17-000
+d-17-052	paalfundering vierkant 200 mm	d-17-000
+d-17-053	paalfundering vierkant 250 mm	d-17-000
+d-17-054	paalfundering vierkant 300 mm	d-17-000
+d-17-055	paalfundering vierkant 350 mm	d-17-000
+d-17-056	paalfundering vierkant 400 mm	d-17-000
+
+d-21-000	Buitenwanden
+d-21-001	baksteen waalformaat	d-21-000
+d-21-002	baksteen dikformaat	d-21-000
+d-21-003	baksteen ijsselformaat	d-21-000
+d-21-004	baksteeen vechtformaat	d-21-000
+d-21-005	baksteen	d-21-000
+d-21-021	kalkzandsteen waalformaat	d-21-000
+d-21-022	kalkzandsteen amstelformaat	d-21-000
+d-21-023	kalkzandsteen maasformaat	d-21-000
+d-21-024	kalkzandsteen dubbel amstelformaat	d-21-000
+d-21-025	kalkzandsteen dubbel maasformaat	d-21-000
+d-21-026	kalkzandsteen	d-21-000
+d-21-041	natuursteen 90x200x400 mm	d-21-000
+d-21-042	natuursteen 100x200x400 mm	d-21-000
+d-21-043	natuursteen 140x200x400 mm	d-21-000
+d-21-044	natuursteen 190x200x400 mm	d-21-000
+d-21-045	natuursteen 215x200x400mm	d-21-000
+d-21-046	natuursteen 90x225x450 mm	d-21-000
+d-21-047	natuursteen 100x225x450 mm	d-21-000
+d-21-048	natuursteen 140x225x450 mm	d-21-000
+d-21-049	natuursteen 190x225x450 mm	d-21-000
+d-21-050	natuursteen  215x225x450 mm	d-21-000
+d-21-051	natuursteen	d-21-000
+d-21-061	poriso 210x100x100 mm	d-21-000
+d-21-062	poriso 210x100x140 mm	d-21-000
+d-21-063	poriso 240x70x140 mm	d-21-000
+d-21-064	poriso 240x80x140 mm	d-21-000
+d-21-065	poriso	d-21-000
+d-21-081	voegmortel	d-21-000
+d-21-082	voegmortel klasse M	d-21-000
+d-21-083	voegmortel klasse S	d-21-000
+d-21-084	voegmortel klasse N	d-21-000
+d-21-085	voegmortel klasse O	d-21-000
+d-21-086	voegmortel klasse K	d-21-000
+
+d-22-000	Binnenwanden
+d-22-001	gasbeton lijmblok 50 mm	d-22-000
+d-22-002	gasbeton lijmblok 70 mm	d-22-000
+d-22-003	gasbeton lijmblok 100 mm	d-22-000
+d-22-004	gasbeton lijmblok 100 mm	d-22-000
+d-22-005	gasbeton lijmblok 150 mm	d-22-000
+d-22-006	gasbeton lijmblok	d-22-000
+d-22-021	gipsblok lijmblok 70 mm	d-22-000
+d-22-022	gipsblok lijmblok 70 mm	d-22-000
+d-22-023	gipsblok lijmblok 100 mm	d-22-000
+d-22-024	gipsblok lijmblok	d-22-000
+d-22-041	kalkzandsteen M100/157	d-22-000
+d-22-042	kalkzandsteen M100/240	d-22-000
+d-22-043	kalkzandsteen M150/157	d-22-000
+d-22-044	kalkzandsteen M214/133	d-22-000
+d-22-045	kalkzandsteen L67/298	d-22-000
+d-22-046	kalkzandsteen L100/298	d-22-000
+d-22-047	kalkzandsteen L120/198	d-22-000
+d-22-048	kalkzandsteen L120/298	d-22-000
+d-22-049	kalkzandsteen L150/148	d-22-000
+d-22-050	kalkzandsteen L214/98	d-22-000
+d-22-051	kalkzandsteen L100/198	d-22-000
+d-22-052	kalkzandsteen	d-22-000
+
+d-23-000	Vloeren, galerijen
+d-23-001	T- ligger beton	d-23-000
+d-23-002	PS vulelement Rc=2,5	d-23-000
+d-23-003	PS vulelement Rc=3,0	d-23-000
+d-23-004	PS vulelement Rc=3,5	d-23-000
+d-23-005	PS vulelement Rc=4,0	d-23-000
+d-23-051	kanaalplaatvloer utiliteitsbouw 200 mm dik	d-23-000
+d-23-052	kanaalplaatvloer utiliteitsbouw 260 mm dik	d-23-000
+d-23-053	kanaalplaatvloer utiliteitsbouw 320 mm dik	d-23-000
+d-23-054	kanaalplaatvloer utiliteitsbouw 400 mm dik	d-23-000
+d-23-071	kanaalplaatvloer woningbouw 150 mm dik	d-23-000
+d-23-072	kanaalplaatvloer woningbouw 200 mm dik	d-23-000
+d-23-101	stalen vloerplaat hoog 100 mm 0,7 mm dik	d-23-000
+d-23-102	stalen vloerplaat hoog 100 mm 0,9 mm dik	d-23-000
+d-23-103	stalen vloerplaat hoog 100 mm 1,2 mm dik	d-23-000
+d-23-104	stalen vloerplaat hoog 19 mm 0,7 mm dik	d-23-000
+d-23-105	stalen vloerplaat hoog 19 mm 0,9 mm dik	d-23-000
+d-23-106	stalen vloerplaat hoog 19 mm 1,2 mm dik	d-23-000
+d-23-107	stalen vloerplaat hoog 35 mm 0,7 mm dik	d-23-000
+d-23-108	stalen vloerplaat hoog 35 mm 0,9 mm dik	d-23-000
+d-23-109	stalen vloerplaat hoog 35 mm 1,2 mm dik	d-23-000
+d-23-110	stalen vloerplaat hoog 46 mm 0,7 mm dik	d-23-000
+d-23-111	stalen vloerplaat hoog 46 mm 0,9 mm dik	d-23-000
+d-23-112	stalen vloerplaat hoog 46 mm 1,2 mm dik	d-23-000
+d-23-113	stalen vloerplaat hoog 60 mm 0,7 mm dik	d-23-000
+d-23-114	stalen vloerplaat hoog 60 mm 0,9 mm dik	d-23-000
+d-23-115	stalen vloerplaat hoog 60 mm 1,2 mm dik	d-23-000
+d-23-116	stalen vloerplaat	d-23-000
+d-23-151	betonvloer 75 mm dik	d-23-000
+d-23-152	betonvloer 100 mm dik	d-23-000
+d-23-153	betonvloer 125 mm dik	d-23-000
+d-23-154	betonvloer 150 mm dik	d-23-000
+d-23-155	betonvloer 175 mm dik	d-23-000
+d-23-156	betonvloer 200mm dik	d-23-000
+d-23-157	betonvloer 225 mm dik	d-23-000
+d-23-158	betonvloer 250 mm dik	d-23-000
+d-23-159	betonvloer	d-23-000
+d-23-181	betonvloer met randbalk	d-23-000
+d-23-182	betonvloer met randbalk	d-23-000
+d-23-183	betonvloer met randbalk	d-23-000
+d-23-184	betonvloer met randbalk	d-23-000
+d-23-185	betonvloer met randbalk	d-23-000
+
+d-24-000	Trappen, hellingen
+d-24-001	betontrap optrede 150 mm aantrede 250 mm	d-24-000
+d-24-002	betontrap optrede 150 mm aantrede 280 mm	d-24-000
+d-24-003	betontrap optrede 150 mm aantrede 300 mm	d-24-000
+d-24-004	betontrap optrede 180 mm aantrede 250 mm	d-24-000
+d-24-005	betontrap optrede 180 mm aantrede 280 mm	d-24-000
+d-24-006	betontrap optrede 180 mm aantrede 300 mm	d-24-000
+
+d-28-000	Hoofddraagkonstructies
+D-28-052	HE140B	d-28-000
+D-28-053	HE160B	d-28-000
+D-28-054	HE180B	d-28-000
+D-28-055	HE200B	d-28-000
+D-28-056	HE220B	d-28-000
+D-28-057	HE240B	d-28-000
+D-28-058	HE260B	d-28-000
+D-28-059	HE280B	d-28-000
+D-28-060	HE300B	d-28-000
+D-28-061	HE320B	d-28-000
+D-28-062	HE340B	d-28-000
+D-28-063	HE360B	d-28-000
+D-28-064	HE400B	d-28-000
+D-28-065	HE450B	d-28-000
+D-28-066	HE500B	d-28-000
+D-28-067	HE550B	d-28-000
+D-28-068	HE600B	d-28-000
+D-28-069	HE650B	d-28-000
+D-28-070	HE700B	d-28-000
+D-28-071	HE800B	d-28-000
+D-28-072	HE900B	d-28-000
+D-28-073	HE1000B	d-28-000
+D-28-074	HE100M	d-28-000
+D-28-075	HE120M	d-28-000
+D-28-076	HE140M	d-28-000
+D-28-077	HE160M	d-28-000
+D-28-078	HE180M	d-28-000
+D-28-079	HE200M	d-28-000
+D-28-080	HE220M	d-28-000
+D-28-081	HE240M	d-28-000
+D-28-082	HE260M	d-28-000
+D-28-083	HE280M	d-28-000
+D-28-084	HE300M	d-28-000
+D-28-085	HE320M	d-28-000
+D-28-086	HE340M	d-28-000
+D-28-087	HE360M	d-28-000
+D-28-088	HE400M	d-28-000
+D-28-089	HE450M	d-28-000
+D-28-090	HE500M	d-28-000
+D-28-091	HE550M	d-28-000
+D-28-092	HE600M	d-28-000
+D-28-093	HE650M	d-28-000
+D-28-094	HE700M	d-28-000
+D-28-095	HE800M	d-28-000
+D-28-096	HE900M	d-28-000
+D-28-097	HE1000M	d-28-000
+d-27-101	stalen dakplaat hoog 100 mm 0,7 mm dik	d-28-000
+d-27-102	stalen dakplaat hoog 100 mm 0,9 mm dik	d-28-000
+d-27-103	stalen dakplaat hoog 100 mm 1,2 mm dik	d-28-000
+d-27-104	stalen dakplaat hoog 19 mm 0,7 mm dik	d-28-000
+d-27-105	stalen dakplaat hoog 19 mm 0,9 mm dik	d-28-000
+d-27-106	stalen dakplaat hoog 19 mm 1,2 mm dik	d-28-000
+d-27-107	stalen dakplaat hoog 35 mm 0,7 mm dik	d-28-000
+d-27-108	stalen dakplaat hoog 35 mm 0,9 mm dik	d-28-000
+d-27-109	stalen dakplaat hoog 35 mm 1,2 mm dik	d-28-000
+d-27-110	stalen dakplaat hoog 46 mm 0,7 mm dik	d-28-000
+d-27-111	stalen dakplaat hoog 46 mm 0,9 mm dik	d-28-000
+d-27-112	stalen dakplaat hoog 46 mm 1,2 mm dik	d-28-000
+d-27-113	stalen dakplaat hoog 60 mm 0,7 mm dik	d-28-000
+d-27-114	stalen dakplaat hoog 60 mm 0,9 mm dik	d-28-000
+d-27-115	stalen dakplaat hoog 60 mm 1,2 mm dik	d-28-000
+d-27-116	stalen dakplaat	d-28-000
+d-28-001	HE100A	d-28-000
+d-28-002	HE120A	d-28-000
+d-28-003	HE140A	d-28-000
+d-28-004	HE160A	d-28-000
+d-28-005	HE180A	d-28-000
+d-28-006	HE200A	d-28-000
+d-28-007	HE220A	d-28-000
+d-28-008	HE240A	d-28-000
+d-28-009	HE260A	d-28-000
+d-28-010	HE280A	d-28-000
+d-28-011	HE300A	d-28-000
+d-28-012	HE320A	d-28-000
+d-28-013	HE340A	d-28-000
+d-28-014	HE360A	d-28-000
+d-28-015	HE400A	d-28-000
+d-28-016	HE450A	d-28-000
+d-28-017	HE500A	d-28-000
+d-28-018	HE550A	d-28-000
+d-28-019	HE600A	d-28-000
+d-28-020	HE650A	d-28-000
+d-28-021	HE700A	d-28-000
+d-28-022	HE800A	d-28-000
+d-28-023	HE900A	d-28-000
+d-28-024	HE1000A	d-28-000
+d-28-025	HE100A-A	d-28-000
+d-28-026	HE120A-A	d-28-000
+d-28-027	HE140A-A	d-28-000
+d-28-028	HE160A-A	d-28-000
+d-28-029	HE180A-A	d-28-000
+d-28-030	HE200A-A	d-28-000
+d-28-031	HE220A-A	d-28-000
+d-28-032	HE240A-A	d-28-000
+d-28-033	HE260A-A	d-28-000
+d-28-034	HE280A-A	d-28-000
+d-28-035	HE300A-A	d-28-000
+d-28-036	HE320A-A	d-28-000
+d-28-037	HE340A-A	d-28-000
+d-28-038	HE360A-A	d-28-000
+d-28-039	HE400A-A	d-28-000
+d-28-040	HE450A-A	d-28-000
+d-28-041	HE500A-A	d-28-000
+d-28-042	HE550A-A	d-28-000
+d-28-043	HE600A-A	d-28-000
+d-28-044	HE650A-A	d-28-000
+d-28-045	HE700A-A	d-28-000
+d-28-046	HE800A-A	d-28-000
+d-28-047	HE900A-A	d-28-000
+d-28-048	HE1000A-A	d-28-000
+D-28-050	HE100B	d-28-000
+D-28-051	HE120B	d-28-000
+d-28-052	HD profiel 260x54,1 mm	d-28-000
+d-28-053	HD profiel 260x68,2 mm	d-28-000
+d-28-054	HD profiel 260x93 mm	d-28-000
+d-28-055	HD profiel 260x114 mm	d-28-000
+d-28-056	HD profiel 260x142 mm	d-28-000
+d-28-057	HD profiel 260x172 mm	d-28-000
+d-28-058	HD profiel 260x225 mm	d-28-000
+d-28-059	HD profiel 260x299 mm	d-28-000
+d-28-060	HD profiel 320x74,2 mm	d-28-000
+d-28-061	HD profiel 320x97,6 mm	d-28-000
+d-28-062	HD profiel 320x127 mm	d-28-000
+d-28-063	HD profiel 320x158 mm	d-28-000
+d-28-064	HD profiel 320x198 mm	d-28-000
+d-28-065	HD profiel 320x245 mm	d-28-000
+d-28-066	HD profiel 320x300 mm	d-28-000
+d-28-067	HD profiel 320x368 mm	d-28-000
+d-28-068	HD profiel 320x451 mm	d-28-000
+d-28-069	HD profiel 360x134 mm	d-28-000
+d-28-070	HD profiel 360x147 mm	d-28-000
+d-28-071	HD profiel 360x162 mm	d-28-000
+d-28-072	HD profiel 360x179 mm	d-28-000
+d-28-073	HD profiel 360x196 mm	d-28-000
+d-28-074	HD profiel 400x187 mm	d-28-000
+d-28-075	HD profiel 400x216 mm	d-28-000
+d-28-076	HD profiel 400x237 mm	d-28-000
+d-28-077	HD profiel 400x262 mm	d-28-000
+d-28-078	HD profiel 400x287 mm	d-28-000
+d-28-079	HD profiel 400x314 mm	d-28-000
+d-28-080	HD profiel 400x347 mm	d-28-000
+d-28-081	HD profiel 400x382 mm	d-28-000
+d-28-082	HD profiel 400x421 mm	d-28-000
+d-28-083	HD profiel 400x463 mm	d-28-000
+d-28-084	HD profiel 400x509 mm	d-28-000
+d-28-085	HD profiel 400x551 mm	d-28-000
+d-28-086	HD profiel 400x592 mm	d-28-000
+d-28-087	HD profiel 400x634 mm	d-28-000
+d-28-088	HD profiel 400x677 mm	d-28-000
+d-28-089	HD profiel 400x744 mm	d-28-000
+d-28-090	HD profiel 400x818 mm	d-28-000
+d-28-091	HD profiel 400x900 mm	d-28-000
+d-28-092	HD profiel 400x990 mm	d-28-000
+d-28-093	HD profiel 400x1086 mm	d-28-000
+d-28-094	buis 21,3x3,2 mm	d-28-000
+d-28-095	buis 29,9x3,2 mm	d-28-000
+d-28-096	buis 33,7x206 mm	d-28-000
+d-28-097	buis 33,7x3,2 mm	d-28-000
+d-28-098	buis 33,7x4,0 mm	d-28-000
+d-28-099	buis 42,4x2,6 mm	d-28-000
+d-28-100	buis 42,4x3,2 mm	d-28-000
+d-28-101	buis 42,4x4,0 mm	d-28-000
+d-28-102	buis 48,3x3,2 mm	d-28-000
+d-28-103	buis 48,3x4,0 mm	d-28-000
+d-28-104	buis 48,3x5,0 mm	d-28-000
+d-28-105	buis 60,3x3,2 mm	d-28-000
+d-28-106	buis 60,3x4,0 mm	d-28-000
+d-28-107	buis 60,3x5,0 mm	d-28-000
+d-28-108	buis 76,1x3,2 mm	d-28-000
+d-28-109	buis 76,1x4,0 mm	d-28-000
+d-28-110	buis 76,1x5,0 mm	d-28-000
+d-28-111	buis 88,9x3,2 mm	d-28-000
+d-28-112	buis 88,9x4,0 mm	d-28-000
+d-28-113	buis 88,9x5,0 mm	d-28-000
+d-28-114	buis 114,3x3,6 mm	d-28-000
+d-28-115	buis 114,3x5,0 mm	d-28-000
+d-28-116	buis 114,3x6,3 mm	d-28-000
+d-28-117	buis 139,7x5,0 mm	d-28-000
+d-28-118	buis 139,7x6,3 mm	d-28-000
+d-28-119	buis 139,7x8,0 mm	d-28-000
+d-28-120	buis 139,7x10,0 mm	d-28-000
+d-28-121	buis 168,3x5,0 mm	d-28-000
+d-28-122	buis 168,3x6,3 mm	d-28-000
+d-28-123	buis 168,3x8,0 mm	d-28-000
+d-28-124	buis 168,3x10,0 mm	d-28-000
+d-28-125	buis 193,7x5,4 mm	d-28-000
+d-28-126	buis 193,7x6,3 mm	d-28-000
+d-28-127	buis 193,7x8,0 mm	d-28-000
+d-28-128	buis 193,7x10,0 mm	d-28-000
+d-28-129	buis 193,7x12,5 mm	d-28-000
+d-28-130	buis 193,7x16,0 mm	d-28-000
+d-28-131	buis 219,1x6,3 mm	d-28-000
+d-28-132	buis 219,1x8,0 mm	d-28-000
+d-28-133	buis 219,1x10,0 mm	d-28-000
+d-28-134	buis 219,1x12,5 mm	d-28-000
+d-28-135	buis 219,1x16,0 mm	d-28-000
+d-28-136	buis 219,1x20,0 mm	d-28-000
+d-28-137	buis 244,5x6,3 mm	d-28-000
+d-28-138	buis 244,5x8,0 mm	d-28-000
+d-28-139	buis 244,5x10,0 mm	d-28-000
+d-28-140	buis 244,5x12,5 mm	d-28-000
+d-28-141	buis 244,5x16,0 mm	d-28-000
+d-28-142	buis 244,5x20,0 mm	d-28-000
+d-28-143	buis 273,0x6,3 mm	d-28-000
+d-28-144	buis 273,0x8,0 mm	d-28-000
+d-28-145	buis 273,0x10,0 mm	d-28-000
+d-28-146	buis 273,0x12,5 mm	d-28-000
+d-28-147	buis 273,0x16,0 mm	d-28-000
+d-28-148	buis 273,0x20,0 mm	d-28-000
+d-28-149	buis 273,0x25,0 mm	d-28-000
+d-28-150	buis 323,9x8,0 mm	d-28-000
+d-28-151	buis 323,9x10,0 mm	d-28-000
+d-28-152	buis 323,9x12,5 mm	d-28-000
+d-28-153	buis 323,9x16,0 mm	d-28-000
+d-28-154	buis 323,9x20,0 mm	d-28-000
+d-28-155	buis 323,9x25,0 mm	d-28-000
+d-28-156	buis 355,6x8,0 mm	d-28-000
+d-28-157	buis 355,6x10,0 mm	d-28-000
+d-28-158	buis 355,6x12,5 mm	d-28-000
+d-28-159	buis 355,6x16,0 mm	d-28-000
+d-28-160	buis 355,6x20,0 mm	d-28-000
+d-28-161	buis 355,6x25,0 mm	d-28-000
+d-28-162	buis 406,4x10,0 mm	d-28-000
+d-28-163	buis 406,4x12,5 mm	d-28-000
+d-28-164	buis 406,4x16,0 mm	d-28-000
+d-28-165	buis 406,4x20,0 mm	d-28-000
+d-28-166	buis 406,4x25,0 mm	d-28-000
+d-28-167	buis 406,4x32,0 mm	d-28-000
+d-28-168	buis 457,0x10,0 mm	d-28-000
+d-28-169	buis 457,0x12,5 mm	d-28-000
+d-28-170	buis 457,0x16,0 mm	d-28-000
+d-28-171	buis 457,0x20,0 mm	d-28-000
+d-28-172	buis 457,0x25,0 mm	d-28-000
+d-28-173	buis 457,0x32,0 mm	d-28-000
+d-28-174	buis457,0x40,0 mm	d-28-000
+d-28-175	HL profiel 1000 AA	d-28-000
+d-28-176	HL profiel 1000 A	d-28-000
+d-28-177	HL profiel 1000 B	d-28-000
+d-28-178	HL profiel 1000 M	d-28-000
+d-28-179	HL profiel 1000x477 mm	d-28-000
+d-28-180	HL profiel 1000x554 mm	d-28-000
+d-28-181	HL profiel 1000x642 mm	d-28-000
+d-28-182	HL profiel 1000x748 mm	d-28-000
+d-28-183	HL profiel 1100 A	d-28-000
+d-28-184	HL profiel 1100 B	d-28-000
+d-28-185	HL profiel 1100 M	d-28-000
+d-28-186	HL profiel 1100 R	d-28-000
+d-28-187	HP profiel 220x57,2 mm	d-28-000
+d-28-188	HP profiel 260x75 mm	d-28-000
+d-28-189	HP profiel 260x87,3 mm	d-28-000
+d-28-190	HP profiel 305x88 mm	d-28-000
+d-28-191	HP profiel 305x95 mm	d-28-000
+d-28-192	HP profiel 305x110 mm	d-28-000
+d-28-193	HP profiel 305x126 mm	d-28-000
+d-28-194	HP profiel 305x149 mm	d-28-000
+d-28-195	HP profiel 305x180 mm	d-28-000
+d-28-196	HP profiel 305x186 mm	d-28-000
+d-28-197	HP profiel 305x223 mm	d-28-000
+d-28-198	HP profiel 320x88,5 mm	d-28-000
+d-28-199	HP profiel 320x103 mm	d-28-000
+d-28-200	HP profiel 320x117 mm	d-28-000
+d-28-201	HP profiel 320x147 mm	d-28-000
+d-28-202	HP profiel 320x184 mm	d-28-000
+d-28-203	HP profiel 360x84,3 mm	d-28-000
+d-28-204	HP profiel 360x109 mm	d-28-000
+d-28-205	HP profiel 360x133 mm	d-28-000
+d-28-206	HP profiel 360x152 mm	d-28-000
+d-28-207	HP profiel 360x174 mm	d-28-000
+d-28-208	HP profiel 360x180 mm	d-28-000
+d-28-209	HP profiel 400x122 mm	d-28-000
+d-28-210	HP profiel 400x140 mm	d-28-000
+d-28-211	HP profiel 400x158 mm	d-28-000
+d-28-212	HP profiel 400x176 mm	d-28-000
+d-28-213	HP profiel 400x194 mm	d-28-000
+d-28-214	HP profiel 400x213 mm	d-28-000
+d-28-215	HP profiel 400x231 mm	d-28-000
+d-28-216	houten balk 50x100 mm	d-28-000
+d-28-217	houten balk 50x125 mm	d-28-000
+d-28-218	houten balk 50x140 mm	d-28-000
+d-28-219	houten balk 50x150 mm	d-28-000
+d-28-220	houten balk 50x175 mm	d-28-000
+d-28-221	houten balk 50x200 mm	d-28-000
+d-28-222	houten balk 63x100 mm	d-28-000
+d-28-223	houten balk 63x125 mm	d-28-000
+d-28-224	houten balk 63x150 mm	d-28-000
+d-28-225	houten balk 63x175 mm	d-28-000
+d-28-226	houten balk 75x100 mm	d-28-000
+d-28-227	houten balk 75x125 mm	d-28-000
+d-28-228	houten balk 75x150mm	d-28-000
+d-28-229	houten balk 75x175 mm	d-28-000
+d-28-230	houten balk 75x200 mm	d-28-000
+d-28-231	houten balk 75x225 mm	d-28-000
+d-28-232	houten balk	d-28-000
+d-28-233	I 80 profiel	d-28-000
+d-28-234	I 100 profiel	d-28-000
+d-28-235	I 120 profiel	d-28-000
+d-28-236	I 140 profiel	d-28-000
+d-28-237	I 160 profiel	d-28-000
+d-28-238	I 180 profiel	d-28-000
+d-28-239	I 200 profiel	d-28-000
+d-28-240	I 220 profiel	d-28-000
+d-28-241	I 240 profiel	d-28-000
+d-28-242	I 260 profiel	d-28-000
+d-28-243	I 280 profiel	d-28-000
+d-28-244	I 300 profiel	d-28-000
+d-28-245	I 320 profiel	d-28-000
+d-28-246	I 340 profiel	d-28-000
+d-28-247	I 360 profiel	d-28-000
+d-28-248	I 380 profiel	d-28-000
+d-28-249	I 400 profiel	d-28-000
+d-28-250	I 450 profiel	d-28-000
+d-28-251	I 500 profiel	d-28-000
+d-28-252	I 550 profiel	d-28-000
+d-28-253	IPB 100 profiel	d-28-000
+d-28-254	IPB 120 profiel	d-28-000
+d-28-255	IPB 140 profiel	d-28-000
+d-28-256	IPB 160 profiel	d-28-000
+d-28-257	IPB 180 profiel	d-28-000
+d-28-258	IPB 200 profiel	d-28-000
+d-28-259	IPB 220 profiel	d-28-000
+d-28-260	IPB 240 profiel	d-28-000
+d-28-261	IPB 260 profiel	d-28-000
+d-28-262	IPB 280 profiel	d-28-000
+d-28-263	IPB 300 profiel	d-28-000
+d-28-264	IPB 320 profiel	d-28-000
+d-28-265	IPB 340 profiel	d-28-000
+d-28-266	IPB 360 profiel	d-28-000
+d-28-267	IPB 400 profiel	d-28-000
+d-28-268	IPB 450 profiel	d-28-000
+d-28-269	IPB 500 profiel	d-28-000
+d-28-270	IPB 550 profiel	d-28-000
+d-28-271	IPB 600 profiel	d-28-000
+d-28-272	IPB 650 profiel	d-28-000
+d-28-273	IPB 700 profiel	d-28-000
+d-28-274	IPB 800 profiel	d-28-000
+d-28-275	IPB 900 profiel	d-28-000
+d-28-276	IPB 1000 profiel	d-28-000
+d-28-277	IPB-I 100 profiel	d-28-000
+d-28-278	IPB-I 120 profiel	d-28-000
+d-28-279	IPB-I 140 profiel	d-28-000
+d-28-280	IPB-I 160 profiel	d-28-000
+d-28-281	IPB-I 180 profiel	d-28-000
+d-28-282	IPB-I 200 profiel	d-28-000
+d-28-283	IPB-I 220 profiel	d-28-000
+d-28-284	IPB-I 240 profiel	d-28-000
+d-28-285	IPB-I 260 profiel	d-28-000
+d-28-286	IPB-I 280 profiel	d-28-000
+d-28-287	IPB-I 300 profiel	d-28-000
+d-28-288	IPB-I 320 profiel	d-28-000
+d-28-289	IPB-I 340 profiel	d-28-000
+d-28-290	IPB-I 360 profiel	d-28-000
+d-28-291	IPB-I 400 profiel	d-28-000
+d-28-292	IPB-I 450 profiel	d-28-000
+d-28-293	IPB-I 500 profiel	d-28-000
+d-28-294	IPB-I 550 profiel	d-28-000
+d-28-295	IPB-I 600 profiel	d-28-000
+d-28-296	IPB-I 650 profiel	d-28-000
+d-28-297	IPB-I 700 profiel	d-28-000
+d-28-298	IPB-I 800 profiel	d-28-000
+d-28-299	IPB-I 900 profiel	d-28-000
+d-28-300	IPB-I 1000 profiel	d-28-000
+d-28-301	IPB-V 100 profiel	d-28-000
+d-28-302	IPB-V 120 profiel	d-28-000
+d-28-303	IPB-V 140 profiel	d-28-000
+d-28-304	IPB-V 160 profiel	d-28-000
+d-28-305	IPB-V 180 profiel	d-28-000
+d-28-306	IPB-V 200 profiel	d-28-000
+d-28-307	IPB-V 220 profiel	d-28-000
+d-28-308	IPB-V 240 profiel	d-28-000
+d-28-309	IPB-V 260 profiel	d-28-000
+d-28-310	IPB-V 280 profiel	d-28-000
+d-28-311	IPB-V 300 profiel	d-28-000
+d-28-312	IPB-V 320/305 profiel	d-28-000
+d-28-313	IPB-V 320 profiel	d-28-000
+d-28-314	IPB-V 340 profiel	d-28-000
+d-28-315	IPB-V 360 profiel	d-28-000
+d-28-316	IPB-V 400 profiel	d-28-000
+d-28-317	IPB-V 450 profiel	d-28-000
+d-28-318	IPB-V 500 profiel	d-28-000
+d-28-319	IPB-V 550 profiel	d-28-000
+d-28-320	IPB-V 600 profiel	d-28-000
+d-28-321	IPB-V 650 profiel	d-28-000
+d-28-322	IPB-V 700 profiel	d-28-000
+d-28-323	IPB-V 800 profiel	d-28-000
+d-28-324	IPB-V 900 profiel	d-28-000
+d-28-325	IPB-V 1000 profiel	d-28-000
+d-28-326	IPE 80	d-28-000
+d-28-327	IPE 100	d-28-000
+d-28-328	IPE 120	d-28-000
+d-28-329	IPE 140	d-28-000
+d-28-330	IPE 160	d-28-000
+d-28-331	IPE 180	d-28-000
+d-28-332	IPE 200	d-28-000
+d-28-333	IPE 220	d-28-000
+d-28-334	IPE 240	d-28-000
+d-28-335	IPE 270	d-28-000
+d-28-336	IPE 300	d-28-000
+d-28-337	IPE 330	d-28-000
+d-28-338	IPE 360	d-28-000
+d-28-339	IPE 400	d-28-000
+d-28-340	IPE 450	d-28-000
+d-28-341	IPE 500	d-28-000
+d-28-342	IPE 550	d-28-000
+d-28-343	IPE 600	d-28-000
+d-28-344	IPE-A 80	d-28-000
+d-28-345	IPE-A 100	d-28-000
+d-28-346	IPE-A 120	d-28-000
+d-28-347	IPE-A 140	d-28-000
+d-28-348	IPE-A 160	d-28-000
+d-28-349	IPE-A 180	d-28-000
+d-28-350	IPE-A 200	d-28-000
+d-28-351	IPE-A 220	d-28-000
+d-28-352	IPE-A 240	d-28-000
+d-28-353	IPE-A 270	d-28-000
+d-28-354	IPE-A 300	d-28-000
+d-28-355	IPE-A 330	d-28-000
+d-28-356	IPE-A 360	d-28-000
+d-28-357	IPE-A 400	d-28-000
+d-28-358	IPE-A 450	d-28-000
+d-28-359	IPE-A 500	d-28-000
+d-28-360	IPE-A 550	d-28-000
+d-28-361	IPE-A 650	d-28-000
+d-28-362	IPE-O 180	d-28-000
+d-28-363	IPE-O 200	d-28-000
+d-28-364	IPE-O 220	d-28-000
+d-28-365	IPE-O 240	d-28-000
+d-28-366	IPE-O 270	d-28-000
+d-28-367	IPE-O 300	d-28-000
+d-28-368	IPE-O 330	d-28-000
+d-28-369	IPE-O 360	d-28-000
+d-28-370	IPE-O 400	d-28-000
+d-28-371	IPE-O 450	d-28-000
+d-28-372	IPE-O 500	d-28-000
+d-28-373	IPE-O 550	d-28-000
+d-28-374	IPE-O 600	d-28-000
+d-28-375	IPE-R 140	d-28-000
+d-28-376	IPE-R 160	d-28-000
+d-28-377	IPE-R 180	d-28-000
+d-28-378	IPE-R 200	d-28-000
+d-28-379	IPE-R 220	d-28-000
+d-28-380	IPE-R 240	d-28-000
+d-28-381	IPE-R 270	d-28-000
+d-28-382	IPE-R 300	d-28-000
+d-28-383	IPE-R 330	d-28-000
+d-28-384	IPE-R 360	d-28-000
+d-28-385	IPE-R 400	d-28-000
+d-28-386	IPE-R 450	d-28-000
+d-28-387	IPE-R 500	d-28-000
+d-28-388	IPE-R 550	d-28-000
+d-28-389	IPE-R 600	d-28-000
+d-28-390	IPE-V 450	d-28-000
+d-28-391	IPE-V 500	d-28-000
+d-28-392	IPE-V 550	d-28-000
+d-28-393	IPE-V 600	d-28-000
+d-28-394	koker 450x250 mm 16 mm dik	d-28-000
+d-28-395	koker 450x250 mm 12,5 mm dik	d-28-000
+d-28-396	koker 450x250 mm 10 mm dik	d-28-000
+d-28-397	koker 400x400 mm 10 mm dik	d-28-000
+d-28-398	koker 400x400 mm 12,5 mm dik	d-28-000
+d-28-399	koker 400x200 mm 12,5 mm dik	d-28-000
+d-28-400	koker 400x200 mm 10 mm dik	d-28-000
+d-28-401	koker 400x200 mm 16 mm dik	d-28-000
+d-28-402	koker 350x350 mm 10 mm dik	d-28-000
+d-28-403	koker 350x350 mm 12,5 mm dik	d-28-000
+d-28-404	koker 350x350 mm 16 mm dik	d-28-000
+d-28-405	koker 300x300 mm 16 mm dik	d-28-000
+d-28-406	koker 300x300 mm 10 mm dik	d-28-000
+d-28-407	koker 300x300 mm 12,5 mm dik	d-28-000
+d-28-408	koker 300x200 mm 12,5 mm dik	d-28-000
+d-28-409	koker 300x300 mm 8 mm dik	d-28-000
+d-28-410	koker 300x200 mm 10 mm dik	d-28-000
+d-28-411	koker 300x200 mm 16 mm dik	d-28-000
+d-28-412	koker 300x200 mm 6,3 mm dik	d-28-000
+d-28-413	koker 250x250 mm 6,3 mm dik	d-28-000
+d-28-414	koker 250x250 mm 16 mm dik	d-28-000
+d-28-415	koker 250x250 mm 12,5 mm dik	d-28-000
+d-28-416	koker 250x250 mm 10 mm dik	d-28-000
+d-28-417	koker 250x250 mm 8 mm dik	d-28-000
+d-28-418	koker 250x150 mm 6,3 mm dik	d-28-000
+d-28-419	koker 250x150 mm 12,5 mm dik	d-28-000
+d-28-420	koker 250x150 mm 8 mm dik	d-28-000
+d-28-421	koker 250x150 mm 10 mm dik	d-28-000
+d-28-422	koker 250x150 mm 16 mm dik	d-28-000
+d-28-423	koker 200x200 mm 12,5 mm dik	d-28-000
+d-28-424	koker 200x200 mm 6,3 mm dik	d-28-000
+d-28-425	koker 200x200 mm 10 mm dik	d-28-000
+d-28-426	koker 200x200 mm 16 mm dik	d-28-000
+d-28-427	koker 200x200 mm 8 mm dik	d-28-000
+d-28-428	koker 200x100 mm 6,3 mm dik	d-28-000
+d-28-429	koker 200x100 mm 16 mm dik	d-28-000
+d-28-430	koker 200x100 mm 10 mm dik	d-28-000
+d-28-431	koker 200x100 mm 12,5 mm dik	d-28-000
+d-28-432	koker 200x100 mm 8 mm dik	d-28-000
+d-28-433	koker 200x100 mm 5 mm dik	d-28-000
+d-28-434	koker 180x180 mm 16 mm dik	d-28-000
+d-28-435	koker 180x180 mm 8 mm dik	d-28-000
+d-28-436	koker 180x180 mm 10 mm dik	d-28-000
+d-28-437	koker 180x180 mm 12,5 mm dik	d-28-000
+d-28-438	koker 180x180 mm 6,3 mm dik	d-28-000
+d-28-439	koker 160x80 mm 10 mm dik	d-28-000
+d-28-440	koker 160x80 mm 8 mm dik	d-28-000
+d-28-441	koker 160x80 mm 6,3 mm dik	d-28-000
+d-28-442	koker 160x80 mm 5 mm dik	d-28-000
+d-28-443	koker 150x150 mm 5 mm dik	d-28-000
+d-28-444	koker 150x150 mm 8 mm dik	d-28-000
+d-28-445	koker 150x150 mm 12,5 mm dik	d-28-000
+d-28-446	koker 150x150 mm 10mm dik	d-28-000
+d-28-447	koker 150x150 mm 16 mm dik	d-28-000
+d-28-448	koker 150x150 mm 6,3 mm dik	d-28-000
+d-28-449	koker 150x100 mm 6,3 mm dik	d-28-000
+d-28-450	koker 150x100 mm 8 mm dik	d-28-000
+d-28-451	koker 150x100 mm 5 mm dik	d-28-000
+d-28-452	koker 150x100 mm 10 mm dik	d-28-000
+d-28-453	koker 120x120 mm 6,3 mm dik	d-28-000
+d-28-454	koker 120x120 mm 10 mm dik	d-28-000
+d-28-455	koker 120x120 mm 8 mm dik	d-28-000
+d-28-456	koker 120x120 mm 5 mm dik	d-28-000
+d-28-457	koker 120x80 mm 8 mm dik	d-28-000
+d-28-458	koker 120x80 mm 10 mm dik	d-28-000
+d-28-459	koker 120x80 mm 6,3 mm dik	d-28-000
+d-28-460	koker 120x80 mm 5 mm dik	d-28-000
+d-28-461	koker 120x60 mm 3,6 mm dik	d-28-000
+d-28-462	koker 120x60 mm 5 mm dik	d-28-000
+d-28-463	koker 120x60 mm 6,3 mm dik	d-28-000
+d-28-464	koker 100x100 mm 6,3 mm dik	d-28-000
+d-28-465	koker 100x100 mm 4 mm dik	d-28-000
+d-28-466	koker 100x100 mm 10 mm dik	d-28-000
+d-28-467	koker 100x100 mm 8 mm dik	d-28-000
+d-28-468	koker 100x100 mm 5 mm dik	d-28-000
+d-28-469	koker 100x60 mm 5 mm dik	d-28-000
+d-28-470	koker 100x60 mm 3,6 mm dik	d-28-000
+d-28-471	koker 100x60 mm 6,3 mm dik	d-28-000
+d-28-472	koker 100x50 mm 5 mm dik	d-28-000
+d-28-473	koker 100x50 mm 4 mm dik	d-28-000
+d-28-474	koker 100x50 mm 3,2 mm dik	d-28-000
+d-28-475	koker 90x90 mm 5 mm dik	d-28-000
+d-28-476	koker 90x90 mm 3,6 mm dik	d-28-000
+d-28-477	koker 90x90 mm 6,3 mm dik	d-28-000
+d-28-478	koker 90x50 mm 3,6 mm dik	d-28-000
+d-28-479	koker 90x50 mm 5 mm dik	d-28-000
+d-28-480	koker 80x80 mm 3,6 mm dik	d-28-000
+d-28-481	koker 80x80 mm 6,3 mm dik	d-28-000
+d-28-482	koker 80x80 mm 5 mm dik	d-28-000
+d-28-483	koker 80x40 mm 4 mm dik	d-28-000
+d-28-484	koker 80x40 3,2 mm dik	d-28-000
+d-28-485	koker 70x70 mm 3,6 mm dik	d-28-000
+d-28-486	koker 70x70 mm 5 mm dik	d-28-000
+d-28-487	koker 60x60 mm 4 mm dik	d-28-000
+d-28-488	koker 60x60 mm 5 mm dik	d-28-000
+d-28-489	koker 60x60 mm 3,2 mm dik	d-28-000
+d-28-490	koker 60x40 mm 3,2 mm dik	d-28-000
+d-28-491	koker 60x40 mm 4 mm dik	d-28-000
+d-28-492	koker 50x50 mm 4 mm dik	d-28-000
+d-28-493	koker 50x50 mm 3,2 mm dik	d-28-000
+d-28-494	koker 50x50 mm 5 mm dik	d-28-000
+d-28-495	koker 50x30 mm 3,2 mm dik	d-28-000
+d-28-496	koker 50x30 mm 2,6 mm dik	d-28-000
+d-28-497	koker 40x40 mm 4 mm dik	d-28-000
+d-28-498	koker 40x40 mm 3,2 mm dik	d-28-000
+d-28-499	koker 40x40 mm 2,6 mm dik	d-28-000
+d-28-500	koker 30x30 mm 2,6 mm dik	d-28-000
+d-28-501	koker 30x30 mm 3,2 mm dik	d-28-000
+d-28-502	koker 20x20 mm 2,6 mm dik	d-28-000
+d-28-503	koker 20x20 mm 2 mm dik	d-28-000
+d-28-504	hoekstaal 20x20 mm 3 mm dik	d-28-000
+d-28-505	hoekstaal 25x25 mm 3 mm dik	d-28-000
+d-28-506	hoekstaal 25x25 mm 4 mm dik	d-28-000
+d-28-507	hoekstaal 30x30 mm 3 mm dik	d-28-000
+d-28-508	hoekstaal 30x30 mm 4 mm dik	d-28-000
+d-28-509	hoekstaal 35x35 mm 4 mm dik	d-28-000
+d-28-510	hoekstaal 40x40 mm 4 mm dik	d-28-000
+d-28-511	hoekstaal 40x40 mm 5 mm dik	d-28-000
+d-28-512	hoekstaal 45x45 mm 4,5 mm dik	d-28-000
+d-28-513	hoekstaal 50x50 mm 4 mm dik	d-28-000
+d-28-514	hoekstaal 50x50 mm 5 mm dik	d-28-000
+d-28-515	hoekstaal 50x50 mm 6 mm dik	d-28-000
+d-28-516	hoekstaal 60x60 mm 5 mm dik	d-28-000
+d-28-517	hoekstaal 60x60 mm 6 mm dik	d-28-000
+d-28-518	hoekstaal 60x60 mm 8 mm dik	d-28-000
+d-28-519	hoekstaal 65x65 mm 7 mm dik	d-28-000
+d-28-520	hoekstaal 70x70 mm 6 mm dik	d-28-000
+d-28-521	hoekstaal 70x70 mm 7 mm dik	d-28-000
+d-28-522	hoekstaal 75x75 mm 6 mm dik	d-28-000
+d-28-523	hoekstaal 75x75 mm 8 mm dik	d-28-000
+d-28-524	hoekstaal 80x80 mm 8 mm dik	d-28-000
+d-28-525	hoekstaal 80x80 mm 10 mm dik	d-28-000
+d-28-526	hoekstaal 90x90 mm 7 mm dik	d-28-000
+d-28-527	hoekstaal 90x90 mm 8 mm dik	d-28-000
+d-28-528	hoekstaal 90x90 mm 9 mm dik	d-28-000
+d-28-529	hoekstaal 90x90 mm 10 mm dik	d-28-000
+d-28-530	hoekstaal 100x100 mm 8 mm dik	d-28-000
+d-28-531	hoekstaal 100x100 mm 10 mm dik	d-28-000
+d-28-532	hoekstaal 100x100 mm 12 mm dik	d-28-000
+d-28-533	hoekstaal 120x120 mm 10 mm dik	d-28-000
+d-28-534	hoekstaal 120x120 mm 12 mm dik	d-28-000
+d-28-535	hoekstaal 130x130 mm 12 mm dik	d-28-000
+d-28-536	hoekstaal 150x150 mm 10 mm dik	d-28-000
+d-28-537	hoekstaal 150x150 mm 12 mm dik	d-28-000
+d-28-538	hoekstaal 150x150 mm 15 mm dik	d-28-000
+d-28-539	hoekstaal 160x160 mm 15 mm dik	d-28-000
+d-28-540	hoekstaal 180x180 mm 16 mm dik	d-28-000
+d-28-541	hoekstaal 180x180 mm 18 mm dik	d-28-000
+d-28-542	hoekstaal 200x200 mm 16 mm dik	d-28-000
+d-28-543	hoekstaal 200x200 mm 18 mm dik	d-28-000
+d-28-544	hoekstaal 200x200 mm 20 mm dik	d-28-000
+d-28-545	hoekstaal 200x200 mm 24 mm dik	d-28-000
+d-28-546	hoekstaal 250x250 mm 28 mm dik	d-28-000
+d-28-547	hoekstaal 250x250 mm 35 mm dik	d-28-000
+d-28-548	hoekstaal 30x20 mm 3 mm dik	d-28-000
+d-28-549	hoekstaal 30x20 mm 4 mm dik	d-28-000
+d-28-550	hoekstaal 40x20 mm 4 mm dik	d-28-000
+d-28-551	hoekstaal 40x25 mm 4 mm dik	d-28-000
+d-28-552	hoekstaal 45x30 mm 4 mm dik	d-28-000
+d-28-553	hoekstaal 50x30 mm 5 mm dik	d-28-000
+d-28-554	hoekstaal 60x30 mm 5 mm dik	d-28-000
+d-28-555	hoekstaal 60x40 mm 5 mm dik	d-28-000
+d-28-556	hoekstaal 60x40 mm 6 mm dik	d-28-000
+d-28-557	hoekstaal 65x50 mm 5 mm dik	d-28-000
+d-28-558	hoekstaal 70x50 mm 6 mm dik	d-28-000
+d-28-559	hoekstaal 75x50 mm 6 mm dik	d-28-000
+d-28-560	hoekstaal 75x50 mm 8 mm dik	d-28-000
+d-28-561	hoekstaal 80x40 mm 6 mm dik	d-28-000
+d-28-562	hoekstaal 80x40 mm 8 mm dik	d-28-000
+d-28-563	hoekstaal 80x60 mm 7 mm dik	d-28-000
+d-28-564	hoekstaal 100x50 mm 6 mm dik	d-28-000
+d-28-565	hoekstaal 100x50 mm 8 mm dik	d-28-000
+d-28-566	hoekstaal 100x65 mm 7 mm dik	d-28-000
+d-28-567	hoekstaal 100x65 mm 8 mm dik	d-28-000
+d-28-568	hoekstaal 100x65 mm 10 mm dik	d-28-000
+d-28-569	hoekstaal 100x75 mm 8 mm dik	d-28-000
+d-28-570	hoekstaal 100x75 mm 10 mm dik	d-28-000
+d-28-571	hoekstaal 100x75 mm 12 mm dik	d-28-000
+d-28-572	hoekstaal 120x80 mm 8 mm dik	d-28-000
+d-28-573	hoekstaal 120x80 mm 10 mm dik	d-28-000
+d-28-574	hoekstaal 120x80 mm 12 mm dik	d-28-000
+d-28-575	hoekstaal 125x75 mm 8 mm dik	d-28-000
+d-28-576	hoekstaal 125x75 mm 10 mm dik	d-28-000
+d-28-577	hoekstaal 125x75 mm 12 mm dik	d-28-000
+d-28-578	hoekstaal 135x65 mm 8 mm dik	d-28-000
+d-28-579	hoekstaal 135x65 mm 10 mm dik	d-28-000
+d-28-580	hoekstaal 150x75 mm 9 mm dik	d-28-000
+d-28-581	hoekstaal 150x75 mm 10 mm dik	d-28-000
+d-28-582	hoekstaal 150x75 mm 12 mm dik	d-28-000
+d-28-583	hoekstaal 150x75 mm 15 mm dik	d-28-000
+d-28-584	hoekstaal 150x90 mm 10 mm dik	d-28-000
+d-28-585	hoekstaal 150x90 mm 12 mm dik	d-28-000
+d-28-586	hoekstaal 150x90 mm 15 mm dik	d-28-000
+d-28-587	hoekstaal 150x100 mm 10 mm dik	d-28-000
+d-28-588	hoekstaal 150x100 mm 12 mm dik	d-28-000
+d-28-589	hoekstaal 200x100 mm 10 mm dik	d-28-000
+d-28-590	hoekstaal 200x100 mm 12 mm dik	d-28-000
+d-28-591	hoekstaal 200x100 mm 15 mm dik	d-28-000
+d-28-592	hoekstaal 200x150 mm 12 mm dik	d-28-000
+d-28-593	hoekstaal 200x150 mm 15 mm dik	d-28-000
+d-28-594	T- profiel 20 mm	d-28-000
+d-28-595	T- profiel 25 mm	d-28-000
+d-28-596	T- profiel 30 mm	d-28-000
+d-28-597	T- profiel 35 mm	d-28-000
+d-28-598	T- profiel 40 mm	d-28-000
+d-28-599	T- profiel 45 mm	d-28-000
+d-28-600	T- profiel 50 mm	d-28-000
+d-28-601	T- profiel 60 mm	d-28-000
+d-28-602	T- profiel 70 mm	d-28-000
+d-28-603	T- profiel 80 mm	d-28-000
+d-28-604	T- profiel 90 mm	d-28-000
+d-28-605	T- profiel 100 mm	d-28-000
+d-28-606	T- profiel 120 mm	d-28-000
+d-28-607	T- profiel 140 mm	d-28-000
+d-28-608	TB- profiel 30 mm	d-28-000
+d-28-609	TB- profiel 35 mm	d-28-000
+d-28-610	TB- profiel 40 mm	d-28-000
+d-28-611	TB- profiel 50 mm	d-28-000
+d-28-612	TB- profiel 60 mm	d-28-000
+d-28-613	U profiel 50 mm	d-28-000
+d-28-614	U profiel 60 mm	d-28-000
+d-28-615	U profiel 65 mm	d-28-000
+d-28-616	U profiel 80 mm	d-28-000
+d-28-617	U profiel 100 mm	d-28-000
+d-28-618	U profiel 120 mm	d-28-000
+d-28-619	U profiel 140 mm	d-28-000
+d-28-620	U profiel 160 mm	d-28-000
+d-28-621	U profiel 180 mm	d-28-000
+d-28-622	U profiel 200 mm	d-28-000
+d-28-623	U profiel 220 mm	d-28-000
+d-28-624	U profiel 240 mm	d-28-000
+d-28-625	U profiel 260 mm	d-28-000
+d-28-626	U profiel 280 mm	d-28-000
+d-28-627	U profiel 300 mm	d-28-000
+d-28-628	U profiel 320 mm	d-28-000
+d-28-629	U profiel 350 mm	d-28-000
+d-28-630	U profiel 380 mm	d-28-000
+d-28-631	U profiel 400 mm	d-28-000
+d-28-632	UPE profiel 80 mm	d-28-000
+d-28-633	UPE profiel 100 mm	d-28-000
+d-28-634	UPE profiel 120 mm	d-28-000
+d-28-635	UPE profiel 140 mm	d-28-000
+d-28-636	UPE profiel 160 mm	d-28-000
+d-28-637	UPE profiel 180 mm	d-28-000
+d-28-638	UPE profiel 200 mm	d-28-000
+d-28-639	UPE profiel 220 mm	d-28-000
+d-28-640	UPE profiel 240 mm	d-28-000
+d-28-641	UPE profiel 270 mm	d-28-000
+d-28-642	UPE profiel 300 mm	d-28-000
+d-28-643	UPE profiel 330 mm	d-28-000
+d-28-644	UPE profiel 360 mm	d-28-000
+d-28-645	UPE profiel 400 mm	d-28-000
+d-28-701	betonbalk 450x500 mm l-vorm	d-28-000
+d-28-702	betonbalk 450x600 mm l-vorm	d-28-000
+d-28-703	betonbalk 450x700 mm l-vorm	d-28-000
+d-28-704	betonbalk 450x800 mm l-vorm	d-28-000
+d-28-705	betonbalk 450x900 mm l-vorm	d-28-000
+d-28-706	betonbalk 450x1000 mm l-vorm	d-28-000
+d-28-707	betonbalk 450x1100 mm l-vorm	d-28-000
+d-28-708	betonbalk 450x1200 mm l-vorm	d-28-000
+d-28-709	betonbalk 450x1300 mm l-vorm	d-28-000
+d-28-710	betonbalk 450x1400 mm l-vorm	d-28-000
+d-28-711	betonbalk 450x1500 mm l-vorm	d-28-000
+d-28-721	betonbalk 200x400 mm	d-28-000
+d-28-722	betonbalk 250x300 mm	d-28-000
+d-28-723	betonbalk 250x400 mm	d-28-000
+d-28-724	betonbalk 250x450 mm	d-28-000
+d-28-725	betonbalk 300x500 mm	d-28-000
+d-28-726	betonbalk 300x600 mm	d-28-000
+d-28-727	betonbalk	d-28-000
+d-28-741	betonbalk rond 200 mm	d-28-000
+d-28-742	betonbalk rond 250 mm	d-28-000
+d-28-743	betonbalk rond 300 mm	d-28-000
+d-28-744	betonbalk rond 350 mm	d-28-000
+d-28-745	betonbalk rond 400 mm	d-28-000
+d-28-746	betonbalk rond 500 mm	d-28-000
+d-28-747	betonbalk rond 600 mm	d-28-000
+d-28-748	betonbalk rond 700 mm	d-28-000
+d-28-749	betonbalk rond 800 mm	d-28-000
+d-28-750	betonbalk rond 900 mm	d-28-000
+d-28-761	betonbalk 600x500 mm t- vorm	d-28-000
+d-28-762	betonbalk 600x600 mm t- vorm	d-28-000
+d-28-763	betonbalk 600x700 mm t- vorm	d-28-000
+d-28-764	betonbalk 600x800 mm t- vorm	d-28-000
+d-28-765	betonbalk 600x900 mm t- vorm	d-28-000
+d-28-766	betonbalk 600x1000 mm t- vorm	d-28-000
+d-28-767	betonbalk 600x1100 mm t- vorm	d-28-000
+d-28-768	betonbalk 600x1200 mm t- vorm	d-28-000
+d-28-769	betonbalk 600x1300 mm t- vorm	d-28-000
+d-28-770	betonbalk 600x1400 mm t- vorm	d-28-000
+d-28-771	betonbalk 600x1500 mm t- vorm	d-28-000
+d-28-781	betonbalk 200x200 mm	d-28-000
+d-28-782	betonbalk 250x250 mm	d-28-000
+d-28-783	betonbalk 300x300 mm	d-28-000
+d-28-784	betonbalk 350x350 mm	d-28-000
+d-28-785	betonbalk 400x400 mm	d-28-000
+d-28-786	betonbalk 500x500 mm	d-28-000
+d-28-787	betonbalk 600x600 mm	d-28-000
+d-28-788	betonbalk	d-28-000
+d-28-901	wapeningstaal R8	d-28-000
+d-28-902	wapeningstaal R10	d-28-000
+d-28-903	wapeningstaal R12	d-28-000
+d-28-904	wapeningstaal R14	d-28-000
+d-28-905	wapeningstaal R16	d-28-000
+d-28-906	wapeningstaal T8	d-28-000
+d-28-907	wapeningstaal T10	d-28-000
+d-28-908	wapeningstaal T12	d-28-000
+d-28-909	wapeningstaal T14	d-28-000
+d-28-910	wapeningstaal T16	d-28-000
+d-28-911	wapeningstaal T18	d-28-000
+d-28-912	wapeningstaal T20	d-28-000
+
+d-31-000	Wandopeningen, buiten
+d-31-001	houten onderdorpel 90x114 mm	d-31-000
+d-31-002	houten onderdorpel 90x114 mm	d-31-000
+d-31-003	houten onderdorpel 67x114 mm	d-31-000
+d-31-004	houten onderdorpel 67x114 mm	d-31-000
+d-31-005	spouwlat 38x120 mm	d-31-000
+d-31-006	spouwlat 38x96 mm	d-31-000
+d-31-007	houten stijl 90x114 mm	d-31-000
+d-31-008	houten stijl 67x114 mm	d-31-000
+d-31-009	houten tussendorpel 90x114 mm	d-31-000
+d-31-010	houten tussendorpel 67x114 mm	d-31-000
+d-31-011	houten kalf 90x114 mm	d-31-000
+d-31-012	houten kalf 67x114 mm	d-31-000
+d-31-101	stalen kozijn type 01-310	d-31-000
+d-31-102	stalen kozijn type 01-320	d-31-000
+d-31-103	stalen kozijn type 01-330	d-31-000
+d-31-104	stalen kozijn type 01-340	d-31-000
+d-31-105	stalen kozijn type 02-330	d-31-000
+d-31-106	spouwlat 38x96 mm	d-31-000
+d-31-107	spouwlat 38x120 mm	d-31-000
+
+d-32-000	Wandopeningen, binnen
+d-32-001	stelkozijn 20x70 mm	d-32-000
+d-32-002	stelkozijn 20x100 mm	d-32-000
+d-32-003	stelkozijn	d-32-000
+d-32-004	stalen kozijn 100 mm opdek deur	d-32-000
+d-32-005	stalen kozijn 70 mm opdek deur	d-32-000
+d-32-006	stalen kozijn 100 mm stompe deur	d-32-000
+d-32-007	stalen kozijn 70 mm stompe deur	d-32-000
+d-32-008	houten kozijn 100 mm opdek deur	d-32-000
+d-32-009	houten kozijn 70 mm opdek deur	d-32-000
+d-32-010	houten kozijn 100 mm stompe deur	d-32-000
+d-32-011	houten kozijn 70 mm stompe deur	d-32-000
+d-32-012	opdekdeur	d-32-000
+d-32-013	stompe deur	d-32-000
+d-32-014	deur	d-32-000
+
+d-40-000	Afwerking
+d-40-001	spaanplaat beplating 4 mm dik	d-40-000
+d-40-002	spaanplaat beplating 6 mm dik	d-40-000
+d-40-003	spaanplaat beplating 8 mm dik	d-40-000
+d-40-004	spaanplaat beplating 10 mm dik	d-40-000
+d-40-005	spaanplaat beplating 12 mm dik	d-40-000
+d-40-006	spaanplaat beplating 16 mm dik	d-40-000
+d-40-007	spaanplaat beplating 18 mm dik	d-40-000
+d-40-008	spaanplaat beplating 20 mm dik	d-40-000
+d-40-009	spaanplaat beplating 22 mm dik	d-40-000
+d-40-010	spaanplaat beplating	d-40-000
+d-40-011	multiplex beplating 12 mm dik	d-40-000
+d-40-012	multiplex beplating 18 mm dik	d-40-000
+d-40-013	multiplex beplating 20 mm dik	d-40-000
+d-40-014	multiplex beplating 22 mm dik	d-40-000
+d-40-015	multiplex beplating	d-40-000
+d-40-016	MDF beplating 4 mm dik	d-40-000
+d-40-017	MDF beplating 6 mm dik	d-40-000
+d-40-018	MDF beplating 8 mm dik	d-40-000
+d-40-019	MDF beplating 10 mm dik	d-40-000
+d-40-020	MDF beplating 12 mm dik	d-40-000
+d-40-021	MDF beplating 16 mm dik	d-40-000
+d-40-022	MDF beplating 18 mm dik	d-40-000
+d-40-023	MDF beplating 20 mm dik	d-40-000
+d-40-024	MDF beplating 22 mm dik	d-40-000
+d-40-025	MDF beplating	d-40-000
+d-40-026	isolatieplaat 40 mm dik	d-40-000
+d-40-027	isolatieplaat 50 mm dik	d-40-000
+d-40-028	isolatieplaat 60 mm dik	d-40-000
+d-40-029	isolatieplaat 70 mm dik	d-40-000
+d-40-030	isolatieplaat 80 mm dik	d-40-000
+d-40-031	isolatieplaat 90 mm dik	d-40-000
+d-40-032	isolatieplaat 100 mm dik	d-40-000
+d-40-033	isolatieplaat 110 mm dik	d-40-000
+d-40-034	isolatieplaat 120 mm dik	d-40-000
+d-40-035	isolatieplaat 130 mm dik	d-40-000
+d-40-036	isolatieplaat 140 mm dik	d-40-000
+d-40-037	isolatieplaat	d-40-000
+d-40-038	glas 4 mm dik	d-40-000
+d-40-039	glas 6 mm dik	d-40-000
+d-40-040	glas 8 mm dik	d-40-000
+d-40-041	glas 10 mm dik	d-40-000
+d-40-042	glas 12 mm dik	d-40-000
+d-40-043	glas	d-40-000
+d-40-044	gipsplaat 8 mm dik	d-40-000
+d-40-045	gipsplaat 10 mm dik	d-40-000
+d-40-046	gipsplaat 12,5 mm dik	d-40-000
+d-40-047	gipsplaat	d-40-000
+d-40-048	stucwerk 10 mm dik	d-40-000
+d-40-049	stucwerk 15 mm dik	d-40-000
+d-40-050	stucwerk 20 mm	d-40-000
+d-40-051	stucwerk	d-40-000
+d-40-100	draadnagel	d-40-000
+d-40-150	bouten M-	d-40-000
+d-40-200	houtdraadbout	d-40-000
+d-40-250	ankerbouten met hoek	d-40-000
+d-40-300	keilbout	d-40-000
+d-40-350	bouten met bolkop	d-40-000
+d-40-400	bouten	d-40-000
+d-40-501	houten regelwerk ongeschaafd 16x63 mm	d-40-000
+d-40-502	houten regelwerk ongeschaafd 19x63 mm	d-40-000
+d-40-503	houten regelwerk ongeschaafd 22x32 mm	d-40-000
+d-40-504	houten regelwerk ongeschaafd 22x50 mm	d-40-000
+d-40-505	houten regelwerk ongeschaafd 22x70 mm	d-40-000
+d-40-506	houten regelwerk ongeschaafd 22x75 mm	d-40-000
+d-40-507	houten regelwerk ongeschaafd 32x50 mm	d-40-000
+d-40-508	houten regelwerk ongeschaafd 32x63 mm	d-40-000
+d-40-509	houten regelwerk ongeschaafd 32x75 mm	d-40-000
+d-40-510	houten regelwerk ongeschaafd 38x50 mm	d-40-000
+d-40-511	houten regelwerk ongeschaafd 38x63 mm	d-40-000
+d-40-512	houten regelwerk ongeschaafd 38x75 mm	d-40-000
+d-40-513	houten regelwerk ongeschaafd 50x50 mm	d-40-000
+d-40-514	houten regelwerk ongeschaafd 50x63 mm	d-40-000
+d-40-515	houten regelwerk ongeschaafd 50x70 mm	d-40-000
+d-40-516	houten regelwerk ongeschaafd 50x75 mm	d-40-000
+d-40-517	houten regelwerk ongeschaafd 63x75 mm	d-40-000
+d-40-518	houten regelwerk ongeschaafd	d-40-000
+d-40-519	houten regelwerk geschaafd 12x59 mm	d-40-000
+d-40-520	houten regelwerk geschaafd 15x59 mm	d-40-000
+d-40-521	houten regelwerk geschaafd 19x28 mm	d-40-000
+d-40-522	houten regelwerk geschaafd 19x46 mm	d-40-000
+d-40-523	houten regelwerk geschaafd 19x59 mm	d-40-000
+d-40-524	houten regelwerk geschaafd 19x71 mm	d-40-000
+d-40-525	houten regelwerk geschaafd 28x46 mm	d-40-000
+d-40-526	houten regelwerk geschaafd 28x59 mm	d-40-000
+d-40-527	houten regelwerk geschaafd 28x71 mm	d-40-000
+d-40-528	houten regelwerk geschaafd 34x46 mm	d-40-000
+d-40-529	houten regelwerk geschaafd 34x59 mm	d-40-000
+d-40-530	houten regelwerk geschaafd 34x71 mm	d-40-000
+d-40-531	houten regelwerk geschaafd 46x46 mm	d-40-000
+d-40-532	houten regelwerk geschaafd 46x59 mm	d-40-000
+d-40-533	houten regelwerk geschaafd 46x66 mm	d-40-000
+d-40-534	houten regelwerk geschaafd 46x71 mm	d-40-000
+d-40-535	houten regelwerk geschaafd 59x71 mm	d-40-000
+d-40-536	houten regelwerk geschaafd	d-40-000
+
+d-43-000	Vloerafwerkingen
+d-43-001	Vloerbedekking tapijttegels 6 mm dik	d-43-000
+d-43-002	Vloerbedekking tapijttegels 9 mm dik	d-43-000
+d-43-003	vloerbedekking 9 mm dik	d-43-000
+d-43-004	vloerbedekking 6 mm dik	d-43-000
+d-43-005	vloerbedekking 4 mm dik	d-43-000
+
+d-52-000	Riolerings installaties
+d-52-001	PVC riolering rond 110 mm 2 mm dik	d-52-000
+d-52-002	PVC riolering rond 110 mm 2,2 mm dik	d-52-000
+d-52-003	PVC riolering rond 110 mm 3,2 mm dik	d-52-000
+d-52-004	PVC riolering rond 125 mm 2,5 mm dik	d-52-000
+d-52-005	PVC riolering rond 125 mm 3,2 mm dik	d-52-000
+d-52-006	PVC riolering rond 125 mm 3,7 mm dik	d-52-000
+d-52-007	PVC riolering rond 160 mm 3,2 mm dik	d-52-000
+d-52-008	PVC riolering rond 160 mm 3,9 mm dik	d-52-000
+d-52-009	PVC riolering rond 160 mm 4,7 mm dik	d-52-000
+d-52-010	PVC riolering rond 200 mm 3,1 mm dik	d-52-000
+d-52-011	PVC riolering rond 200 mm 4 mm dik	d-52-000
+d-52-012	PVC riolering rond 200 mm 4,9 mm dik	d-52-000
+d-52-013	PVC riolering rond 200 mm 5,9 mm dik	d-52-000
+d-52-014	PVC riolering rond 250 mm 3,8 mm dik	d-52-000
+d-52-015	PVC riolering rond 250 mm 5 mm dik	d-52-000
+d-52-016	PVC riolering rond 250 mm 6,1 mm dik	d-52-000
+d-52-017	PVC riolering rond 250 mm 7,3 mm dik	d-52-000
+d-52-020	PVC riolering rond 40 mm 3,2 mm dik	d-52-000
+d-52-021	PVC riolering rond 50 mm 3,2 mm dik	d-52-000
+d-52-022	PVC riolering rond 75 mm 3,2 mm dik	d-52-000
+d-52-023	PVC riolering rond 90 mm 3,2 mm dik	d-52-000
+d-52-024	PVC riolering rond 110 mm 2 mm dik	d-52-000
+d-52-025	PVC riolering rond 110 mm 2,2 mm dik	d-52-000
+d-52-026	PVC riolering rond 110 mm 3,2 mm dik	d-52-000
+d-52-027	PVC riolering rond 125 mm 2,5 mm dik	d-52-000
+d-52-028	PVC riolering rond 125 mm 3,2 mm dik	d-52-000
+d-52-029	PVC riolering rond 125 mm 3,7 mm dik	d-52-000
+d-52-030	PVC riolering rond 160 mm 3,2 mm dik	d-52-000
+d-52-031	PVC riolering rond 160 mm 3,9 mm dik	d-52-000
+d-52-032	PVC riolering rond 160 mm 4,7 mm dik	d-52-000
+d-52-033	PVC riolering	d-52-000
+
+d-63-000	Verlichtings installaties
+d-63-001	armatuur opbouw 2 tl, 650x190 mm	d-63-000
+d-63-002	armatuur opbouw 1 tl, 1260x190 mm	d-63-000
+d-63-003	armatuur opbouw 2 tl, 1260x305 mm	d-63-000
+d-63-004	armatuur opbouw 1 tl, 1560x190 mm	d-63-000
+d-63-005	armatuur opbouw 2 tl, 1560x305 mm	d-63-000
+d-63-006	armatuur inbouw 3 tl, 600x600 mm	d-63-000
+d-63-007	armatuur inbouw 2 tl, 300x1200 mm	d-63-000
+d-63-008	armatuur inbouw 3 tl, 600x1200 mm	d-63-000
+d-63-009	armatuur inbouw spot 200 mm	d-63-000
+
+d-65-000	Beveiligings installaties
+d-65-001	brandwerend spuitwerk 25 mm dik	d-65-000
+d-65-002	brandwerend spuitwerk 50 mm dik	d-65-000
+d-65-003	brandwerend spuitwerk 10 mm dik	d-65-000
+
+d-94-000	Terreinafwerking
+d-94-001	natuursteen tegels 150x150 mm 50 mm dik	d-94-000
+d-94-002	natuursteen tegels 150x150 mm 25 mm dik	d-94-000
+d-94-003	natuursteen tegels 300x300 mm 50 mm dik	d-94-000
+d-94-004	natuursteen kinderkop 100mm	d-94-000
+d-94-005	natuursteen tegels 600x600 mm 50 mm dik	d-94-000
+d-94-006	natuursteen kinderkop 50mm	d-94-000
+d-94-007	natuursteen kinderkop 60mm	d-94-000
+d-94-008	natuursteen bestrating	d-94-000
+d-94-009	opvulling grind 50 mm	d-94-000
+d-94-010	opvulling grind 75 mm	d-94-000
+d-94-011	opvulling grind 100 mm	d-94-000
+d-94-012	opvulling grind 150 mm	d-94-000
+d-94-013	opvulling gravel 50 mm	d-94-000
+d-94-014	opvulling gravel 75 mm	d-94-000
+d-94-015	opvulling gravel 100 mm	d-94-000
+d-94-016	opvulling gravel 150 mm	d-94-000
+d-94-017	opvulling zand 50 mm	d-94-000
+d-94-018	opvulling zand 75 mm	d-94-000
+d-94-019	opvulling zand 100 mm	d-94-000
+d-94-020	opvulling zand 150 mm	d-94-000
+d-94-021	opvulling	d-94-000
+d-94-022	klinker bestrating	d-94-000
+d-94-023	klinker bestrating	d-94-000
+d-94-024	bestrating betontegel 200x200 mm 25 mm dik	d-94-000
+d-94-025	bestrating betontegel 300x300 mm 25 mm dik	d-94-000
+d-94-026	bestrating betontegel 200x200 mm 38 mm dik	d-94-000
+d-94-027	bestrating betontegel 300x300 mm 38 mm dik	d-94-000
+d-94-028	bestrating betontegel 600x600 mm 38 mm dik	d-94-000
+d-94-029	bestrating betontegel 600x1200 mm 38 mm dik	d-94-000
+d-94-030	bestrating betontegel 200x200mm 50 mm dik	d-94-000
+d-94-031	bestrating betontegel 300x300mm 50 mm dik	d-94-000
+d-94-032	bestrating betontegel 600x600mm 50 mm dik	d-94-000
+d-94-033	bestrating betontegel 600x1200mm 50 mm dik	d-94-000
+d-94-034	betongrastegel 600x600 mm 100 mm dik 3 ribben	d-94-000
+d-94-035	betongrastegel 600x600 mm 100 mm dik 6 ribben	d-94-000
+d-94-036	betongrastegel 600x600 mm 150 mm dik 3 ribben	d-94-000
+d-94-037	betongrastegel 600x600 mm 150 mm dik 6 ribben	d-94-000
+d-94-038	betongrastegel 1200x1200 mm 100 mm dik 3 ribben	d-94-000
+d-94-039	betongrastegel 1200x1200 mm 100 mm dik 6 ribben	d-94-000
+d-94-040	betongrastegel 1200x1200 mm 150 mm dik 3 ribben	d-94-000
+d-94-041	betongrastegel 1200x1200 mm 150 mm dik 6 ribben	d-94-000
+d-94-042	betongrastegel	d-94-000
+
+d-00-000	Materiaal aanduidingen
+d-00-001	baksteen	d-00-000
+d-00-002	poriso	d-00-000
+d-00-003	kalkzandsteen	d-00-000
+d-00-004	gasbetonsteen	d-00-000
+d-00-005	gipsblokken	d-00-000
+d-00-006	staal	d-00-000
+d-00-007	beton	d-00-000
+d-00-008	hout	d-00-000
+d-00-009	multiplex beplating	d-00-000
+d-00-010	glas	d-00-000
+d-00-011	MDF beplating	d-00-000
+d-00-012	gipsplaat	d-00-000
+d-00-013	isolatie	d-00-000
+d-00-014	pvc	d-00-000
+d-00-100	grind opvulling	d-00-000
+d-00-101	maaiveld	d-00-000
+d-00-102	maaiveld	d-00-000
+d-00-103	zand opvulling	d-00-000

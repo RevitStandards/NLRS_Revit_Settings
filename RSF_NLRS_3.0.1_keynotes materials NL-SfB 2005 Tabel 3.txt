@@ -1,0 +1,148 @@
+a	SAMENGESTELDE GRONDSTOFFEN	
+b	Gereserveerd	
+c	Gereserveerd	
+d	Gereserveerd	
+e	NATUURSTEEN	
+e1	Stollingsgesteente	e
+e2	Marmers	e
+e3	Kalkstenen (uitgezonderd marmers)	e
+e4	Zandsteen	e
+e5	Leisteen	e
+e9	Overige natuursteen, hiervoor niet genoemd	e
+f	NIET-GEBAKKEN KUNSTSTEEN	
+f1	Gebonden met kalk	f
+f2	Beton, mortels na verharding (belangrijkste bindmiddel = cement)	f
+f3	Kunststeen (belangrijkste bindmiddel = cement)	f
+f4	Cellenbeton na verharding (belangrijkste bindmiddel = cement)	f
+f5	Beton na verharding op basis van minerale vulmiddelen (belangrijkste bindmiddel = cement)	f
+f6	Beton na verharding op basis van asbestvezel (bindmiddel = cement)	f
+f7	Vormvaste grondstoffen, gebonden met gips	f
+f8	Vormvaste grondstoffen met magnesium	f
+f9	Grondstoffen van type f, hiervoor niet genoemd	f
+g	KLEI	
+g1	Gedroogde klei	g
+g2	Gebakken klei, niet beschreven in g3 of g6	g
+g3	Verglaasde klei, geglazuurde gebakken klei	g
+g6	Vuurvaste gebakken klei	g
+g9	Grondstofen van type g, hiervoor niet genoemd	g
+h	METAAL	
+h1	Gietijzer	h
+h2	Staal	h
+h3	Staal legeringen	h
+h4	Aluminium, aluminiumlegeringen	h
+h5	Koper	h
+h6	Koperlegeringen	h
+h7	Zink	h
+h8	Lood	h
+h9	Grondstoffen van type h, hiervoor niet genoemd	h
+i	HOUT	
+i1	Onbewerkt hout	i
+i2	Naaldhout (bewerkt)	i
+i3	Loofhout (bewerkt)	i
+i4	In lagen verlijmd hout	i
+i5	Fineerlagen in hout	i
+i9	Grondstoffen van type i, hiervoor niet genoemd	i
+j	ORGANISCHE MATERIALEN	
+j1	Op basis van houtvezels, houtwol	j
+j2	Papier	j
+j3	Op basis van plantaardige vezels (uitgezonderd houtvezels, houtwol)	j
+j5	Schors, kurk	j
+j6	Op basis van dierlijke vezels	j
+j7	Op basis van houtspanen	j
+j8	Op basis van houtwol, van houtvezels gebonden met anorganisch bindmiddel	j
+j9	Producten van type j, hiervoor niet genoemd	j
+k	Gereserveerd	
+l	Gereserveerd	
+m	ANORGANISCHE MATERIALEN	
+m1	Op basis van minerale vezels of minerale wol	m
+m2	Grondstoffen op basis van asbestvezels (niet gebonden met cement)	m
+m9	Grondstoffen van type m, hiervoor niet genoemd	m
+n	KUNSTSTOFFEN, RUBBERS	
+n1	Op basis van bitumen	n
+n2	Vezels en vilten geïmpregneerd met bitumen	n
+n4	Linoleum	n
+n5	Rubbers (elastomeren) natuurlijke en synthetische	n
+n6	Kunststoffen, vormvaste grondstoffen op basis van synthetische vezels	n
+n7	Kunststof met cellenstructuur	n
+n8	Kunststof met wapening	n
+n9	Producten van type n, hiervoor niet genoemd	n
+o	GLAS	
+o1	Doorzichtig glas	o
+o2	Doorschijnend glas	o
+o3	Opaak en opaal glas	o
+o4	Gewapend glas	o
+o5	Meervoudige beglazing	o
+o6	Absorberend glas, reflecterend glas	o
+o7	Spiegelglas, spionglas	o
+o8	Veiligheidsglas	o
+o9	Grondstoffen van type o, hiervoor niet genoemd	o
+p	VULSTOFFEN	
+p1	Natuurlijke aggregaten, natuurlijke vulstoffen	p
+p2	Zware kunstmatige vulmiddelen	p
+p3	Lichte kunstmatige vulmiddelen	p
+p4	As	p
+p5	Zaagmeel, schaafsel	p
+p6	Poedermaterialen	p
+p7	Vezels	p
+p9	Grondstoffen van type p, hiervoor niet genoemd	p
+q	KALK EN CEMENT, BINDMIDDELEN, MORTELS	
+q1	Kalk	q
+q2	Cement	q
+q3	Bastaard bindmiddel (kalk + cement)	q
+q4	Mengsels, mortels en beton (voor verharding) op basis van cement en/of kalk, niet beschreven in q5, q6, q7 en q9	q
+q5	Mengsels, beton (voor verharding) op basis van cement en aggregaten voor kunststenen	q
+q6	Mengsels, beton (voor verharding) op basis van cement voor cellenbeton	q
+q7	Mengsels, beton (voor verharding) op basis van cement en lichte minerale aggregaten	q
+q9	Mengsels, beton (voor verharding) op basis van cement en asbestvezels	q
+r	KLEI, GIPS, MAGNESIUM EN KUNSTSTOF BINDMIDDELEN	
+r1	Mengsels, mortels en beton (voor verharding) op basis van klei	r
+r2	Mengsels, mortels en beton (voor verharding) op basis van gips	r
+r3	Mengsels, mortels en beton (voor verharding) op basis van magnesium	r
+r4	Mengsels, mortels en beton (voor verharding) op basis van kunststofbindmiddelen	r
+r9	Grondstoffen van type r, hiervoor niet genoemd	r
+s	BITUMEN	
+s1	Bitumenbindmiddelen	s
+s4	Mengsels, mortels (voor verharding) met bitumenbindmiddel (kleine aggregaten)	s
+s5	Mengsels, beton (voor verharding) met bitumenbindmiddel (grote aggreaten)	s
+s9	Grondstoffen van type s, hiervoor niet genoemd	s
+t	BEVESTIGINGSMIDDELEN, VOEGVULLINGEN	
+t1	Lasstoffen	t
+t2	Soldeersel	t
+t3	Kleefstoffen, kleefbanden	t
+t4	Voegspecie, vormvaste voegmiddelen	t
+t6	Hechtingsmiddelen	t
+t7	Bouwbeslag, hang- en sluitwerk	t
+t9	Grondstoffen van type t, hiervoor niet genoemd	t
+u	BESCHERMENDE EN EIGENSCHAP-BEÏNVLOEDENDE MATERIALEN	
+u1	Anti-corrosiematerialen, anti-corrosiebehandelingen	u
+u2	Toeslagstoffen	u
+u3	Stoffen om specifieke aantastingen te weerstaan	u
+u4	Brandbaarheid-reducerende middelen	u
+u5	Oppervlaktebehandelingsmiddelen	u
+u6	Waterafstotende middelen	u
+u9	Grondstoffen van type u, hiervoor niet genoemd	u
+v	VERVEN	
+v1	Grondstoffen om af te werken vlak voor te bereiden, inclusief grondlagen	v
+v2	Pigmenten, kleurstoffen	v
+v3	Bindmiddelen, oplosmiddelen verdunners	v
+v4	Vernissen, lakken	v
+v5	Verven op basis van olie en/of synthetische harsen	v
+v6	Emulsieverven	v
+v8	Waterverven	v
+v9	Grondstoffen van type v, hiervoor niet genoemd	v
+w	HULPSTOFFEN	
+w1	Roestverwijderende stoffen	w
+w3	Brandstoffen	w
+w4	Water	w
+w5	Zuren, basen	w
+w6	Meststoffen	w
+w7	Reinigingsproducten	w
+w8	Explosieven	w
+w9	Materialen van type w, hiervoor niet genoemd	w
+x	Gereserveerd	
+y	Composieten	
+z	Substanties	
+z1	Substanties volgens fasetoestand	z
+z2	Substanties volgens chemische samenstelling	z
+z3	Substanties volgens oorsprong	z
+z9	Grondstoffen van type z, hiervoor niet genoemd	z
