@@ -1,0 +1,926 @@
+# Revit Export Layers
+# Maps Categories and Subcategories to layer names and color numbers
+# Category <tab> Subcategory <tab> Layer name <tab> Color number <tab>
+# Cut layer name <tab> Cut color number
+# Do not remove the colon (:) after certain category names.
+# -----------------------------------------------------
+Adaptive Points		A--L$08A__Hulplijnen	6		
+Adaptive Points	Lines	A--L$08A__Hulplijnen	6		
+Adaptive Points	Planes	A--L$08A__Hulplijnen	6		
+Adaptive Points	Points	A--L$08A__Hulplijnen	6		
+Air Terminal Tags		A--T75__Luchtbehandeling	1		
+Air Terminals		A--L75__Luchtbehandeling	7		
+Area Load Tags		A--TR9__AlgVoorz	1		
+Area Polylines		A--LR9__AlgVoorz	7		
+Area Tags		A--LR9__AlgVoorz	7		
+Areas		A--LR9__AlgVoorz	7		
+Areas	Color Fill	A--AR9__AlgVoorz	1		
+Areas	Interior Fill	A--AR9__AlgVoorz	1		
+Areas	Reference				
+Boundary Conditions		A--LR9__AlgVoorz	7		
+Brace in Plan View Symbols		A--L28__Hoofddraagconstructies	3		
+Cable Tray Fitting Tags		A--T63__InstallatiesE	1		
+Cable Tray Fittings		A--L63__InstallatiesE	1		
+Cable Tray Fittings	Center line	A--L63__InstallatiesE	1		
+Cable Tray Tags		A--T63__InstallatiesE	1		
+Cable Trays		A--L63__InstallatiesE	1		
+Cable Trays	Center line	A--L63__InstallatiesE	1		
+Cable Trays	Drop	A--L63__InstallatiesE	1		
+Cable Trays	Rise	A--L63__InstallatiesE	1		
+Callouts		A--L$01A__Algemeen	7		
+Casework		A--L82__LosseGebruikersInvent	1	A--L82__LosseGebruikersInvent	1
+Casework	Hidden Lines				
+Casework	kast_behuizing				
+Casework	kast_deur				
+Casework	kast_handvat				
+Casework	kast_lijst				
+Casework	kast_plint				
+Casework	keuken_aanrechtblad				
+Casework	keuken_behuizing				
+Casework	keuken_voorpaneel				
+Casework Tags		A--T82__LosseGebruikersInvent	1		
+Ceiling Tags		A--T45__Plafondafwerkingen	1		
+Ceilings		A--L45__Plafondafwerkingen	1	A--L45__Plafondafwerkingen	1
+Ceilings	Common Edges				
+Ceilings	Cut Pattern	A--A45__Plafondafwerkingen	8	A--A45__Plafondafwerkingen	8
+Ceilings	Finish 1 [4]				
+Ceilings	Finish 2 [5]				
+Ceilings	Hidden Lines				
+Ceilings	Membrane Layer				
+Ceilings	Structure [1]				
+Ceilings	Substrate [2]				
+Ceilings	Surface Pattern	A--A45__Plafondafwerkingen	8	A--A45__Plafondafwerkingen	8
+Ceilings	Thermal/Air Layer [3]				
+Color Fill		A--A$09A__Renvooi	2	A--A$09A__Renvooi	2
+Color Fill Legends		A--L$09A__Renvooi	1		
+Columns		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Columns	Hidden Lines				
+Columns	omtimmering				
+Columns	Stalen kolom				
+Columns	stalen_kolom				
+Communication Device Tags		A--T64__Communicatie	1		
+Communication Devices		A--L64__Communicatie	1		
+Conduit Fitting Tags		A--T50__Mechanische installaties	2		
+Conduit Fittings		A--L50__Mechanische installaties	1		
+Conduit Fittings	Center line	A--L50__Mechanische installaties	1		
+Conduit Tags		A--T50__Mechanische installaties	2		
+Conduits		A--L50__Mechanische installaties	1		
+Conduits	Center line	A--L50__Mechanische installaties	1		
+Conduits	Drop	A--L50__Mechanische installaties	1		
+Conduits	Rise	A--L50__Mechanische installaties	1		
+Connection Symbols		A--L$01A__Algemeen	7		
+Constraints		A--L$01A__Algemeen	7		
+Contour Labels		A--L3__Afbouw	2		
+Curtain Panel Tags		A--T3__Afbouw	1		
+Curtain Panels		A--L3__Afbouw	2	A--L3__Afbouw	2
+Curtain Panels	deurhout				
+Curtain Panels	deurpaneel				
+Curtain Panels	draairichting binnenzijde				
+Curtain Panels	draairichting buitenzijde				
+Curtain Panels	draairichting plattegrond				
+Curtain Panels	gipsplaat				
+Curtain Panels	glas				
+Curtain Panels	glas in deur				
+Curtain Panels	Glass				
+Curtain Panels	Hidden Lines				
+Curtain Panels	paneel				
+Curtain Panels	Panel				
+Curtain Panels	Panel Material 1				
+Curtain Panels	raamhout				
+Curtain Panels	rand				
+Curtain Panels	vulling				
+Curtain System Tags		A--T3__Afbouw	1		
+Curtain Systems		A--L3__Afbouw	2	A--L3__Afbouw	2
+Curtain Systems	Curtain System Grids				
+Curtain Systems	Hidden Lines				
+Curtain Wall Mullions		A--L3__Afbouw	2	A--L3__Afbouw	2
+Curtain Wall Mullions	Hidden Lines				
+Data Device Tags		A--T6__InstallatiesE	1		
+Data Devices		A--L6__InstallatiesE	1		
+Demolished		A-SL$01A__Algemeen	1	A-SL$01A__Algemeen	1
+Detail Item Tags		A--T$01A__Algemeen	1		
+Detail Items		A--L$01A__Algemeen	7		
+Detail Items	.pen_0.13mm				
+Detail Items	.pen_0.18mm				
+Detail Items	.pen_0.25mm				
+Detail Items	.pen_0.35mm				
+Detail Items	.pen_0.50mm				
+Detail Items	.pen_0.70mm				
+Detail Items	.pen_1.00mm				
+Detail Items	Heavy Lines	A--LD40__DetailPenDik	4		
+Detail Items	Hidden Lines	A--LD11__DetailPenDunHidden	1		
+Detail Items	Light Lines	A--LD20__DetailPenFijn	2		
+Detail Items	Medium Lines	A--LD30__DetailPenMiddel	3		
+Detail Items	pen 1	A--LD10_DetailPenDun	1		
+Detail Items	pen 2	A--LD20__DetailPenFijn	2		
+Detail Items	pen 3	A--LD30__DetailPenMiddel	3		
+Detail Items	pen 4	A--LD40__DetailPenDik	4		
+Detail Items	pen 5	A--LD40__DetailPenDik	4		
+Detail Items	pen blauw	A--LD20__DetailPenFijn	2		
+Detail Items	pen groen	A--LD20__DetailPenFijn	2		
+Detail Items	pen rood	A--LD20__DetailPenFijn	2		
+Detail Items	staal_profiel_gestippeld				
+Dimensions		A--M$01A__Algemeen	1		
+Dimensions	Automatic Sketch Dimensions	A--M$01A__Algemeen	1		
+Door Tags		A--T3__Afbouw	1		
+Door Tags	Enter new name here				
+Door Tags	Medium Line				
+Door Tags	North Line				
+Door Tags	Thin Line				
+Doors		A--L3__Afbouw	2	A--L3__Afbouw	2
+Doors	brievenbus				
+Doors	deurborstwering				
+Doors	deurhout				
+Doors	deurpaneel				
+Doors	Frame/Mullion	A--L3__Afbouw	2	A--L3__Afbouw	2
+Doors	glas				
+Doors	Glass				
+Doors	Hidden Lines				
+Doors	Opening				
+Doors	paneel				
+Doors	Panel				
+Doors	raamhout				
+Doors	roldeur				
+Doors	rubberdorpel				
+Doors	Spouwlat				
+Doors	stijl_dorpel_aluminium				
+Doors	stijl_dorpel_hout				
+Doors	stijl_dorpel_kunststof				
+Doors	stijl_dorpel_staal				
+Doors	Vensterbank				
+Duct Accessories		A--L57__Luchtbehandeling	1		
+Duct Accessory Tags		A--T57__Luchtbehandeling	1		
+Duct Color Fill		A--A57__Luchtbehandeling	1		
+Duct Color Fill Legends		A--L$09A__Renvooi	1		
+Duct Fitting Tags		A--T57__Luchtbehandeling	1		
+Duct Fittings		A--L57__Luchtbehandeling	1		
+Duct Fittings	Center line				
+Duct Fittings	Insulation				
+Duct Fittings	Lining				
+Duct Tags		A--T57__Luchtbehandeling	1		
+Ducts		A--L57__Luchtbehandeling	1		
+Ducts	Center line				
+Ducts	Drop				
+Ducts	Insulation				
+Ducts	Lining				
+Ducts	Rise				
+Electrical Circuit Tag		A--T63__InstallatiesE	1		
+Electrical Equipment		A--L63__InstallatiesE	1		
+Electrical Equipment	Electrical Circuit				
+Electrical Equipment	Electrical Power				
+Electrical Equipment	Electrical Switches				
+Electrical Equipment	Electrical Underfloor				
+Electrical Equipment	Hidden Lines				
+Electrical Equipment	keuken_behuizing				
+Electrical Equipment Tags		A--T63__InstallatiesE	1		
+Electrical Fixture Tags		A--T63__InstallatiesE	1		
+Electrical Fixtures		A--L63__InstallatiesE	1		
+Electrical Fixtures	Electrical Fans				
+Electrical Fixtures	elektrabuis				
+Electrical Fixtures	Hidden Lines				
+Electrical Fixtures	kabelgoot				
+Electrical Fixtures	stopcontact				
+Electrical Fixtures	stopcontact_symbool				
+Elevations		A--L$01A__Algemeen	7		
+Entourage		A--L$10A__Presentatie	1		
+Entourage	auto				
+Entourage	boom				
+Entourage	bureaustoel				
+Entourage	elektronische_apparatuur				
+Entourage	fotolijstje				
+Entourage	Hidden Lines				
+Entourage	mens				
+Entourage	plant				
+Existing		A-BL$01A__Algemeen	7	A-BL$01A__Algemeen	7
+Fire Alarm Device Tags		A--T65__Beveiliging	1		
+Fire Alarm Devices		A--L65__Beveiliging	1		
+Flex Duct Tags		A--T57__Luchtbehandeling	1		
+Flex Ducts		A--L57__Luchtbehandeling	1		
+Flex Ducts	Center line				
+Flex Ducts	Insulation				
+Flex Ducts	Pattern	A--A57__Luchtbehandeling	1		
+Flex Pipe Tags		A--T5__InstallatiesW	1		
+Flex Pipes		A--L5__InstallatiesW	7		
+Flex Pipes	Center Line				
+Flex Pipes	Insulation				
+Flex Pipes	Pattern	A--A5__InstallatiesW	1		
+Floor Tags		A--T23__Vloeren	1		
+Floors		A--L23__Vloeren	3	A--L23__Vloeren	3
+Floors	Analytical Model				
+Floors	Common Edges				
+Floors	Cut Pattern	A--A23__Vloeren	8	A--A23__Vloeren	8
+Floors	Finish 1 [4]				
+Floors	Finish 2 [5]				
+Floors	Hidden Lines	A--L23__Vloeren	3	A--L23__Vloeren	1
+Floors	Interior Edges				
+Floors	Membrane Layer				
+Floors	Slab Edges	A--L23__Vloeren	3	A--L23__Vloeren	3
+Floors	Structure [1]				
+Floors	Substrate [2]				
+Floors	Surface Pattern	A--A23__Vloeren	8	A--A23__Vloeren	8
+Floors	Thermal/Air Layer [3]				
+Foundation Span Direction Symbol		A--T16__Funderingconstructies	1		
+Furniture		A--L82__LosseGebruikersInvent	1		
+Furniture	achterliggend				
+Furniture	bank_details				
+Furniture	bank_frame				
+Furniture	bank_kussens				
+Furniture	bank_poot				
+Furniture	bank_rugvlak				
+Furniture	bank_stoffering				
+Furniture	bank_werkblad				
+Furniture	bank_zitvlak				
+Furniture	barkruk_frame				
+Furniture	barkruk_rugvlak				
+Furniture	barkruk_zitvlak				
+Furniture	bureaustoel_details				
+Furniture	bureaustoel_frame				
+Furniture	bureaustoel_rugvlak				
+Furniture	bureaustoel_wieltjes				
+Furniture	bureaustoel_zitvlak				
+Furniture	dressoir_blad				
+Furniture	dressoir_frame				
+Furniture	dressoir_handvat				
+Furniture	dressoir_poot				
+Furniture	fauteuil_onderstel				
+Furniture	fauteuil_stoffering				
+Furniture	Hidden Lines				
+Furniture	kast_frame				
+Furniture	kast_glas				
+Furniture	kast_handvat				
+Furniture	kleding				
+Furniture	kleerhanger				
+Furniture	kruk_frame				
+Furniture	kruk_zitvlak				
+Furniture	lichtreclame				
+Furniture	monitor_frame				
+Furniture	monitor_scherm				
+Furniture	monitor_steun				
+Furniture	Overhead Lines				
+Furniture	panelen				
+Furniture	picknick_bank				
+Furniture	picknick_tafel				
+Furniture	plantenbak				
+Furniture	plantenbak_poot				
+Furniture	schaduw				
+Furniture	stoel_details				
+Furniture	stoel_frame				
+Furniture	stoel_hoofdsteun				
+Furniture	stoel_kussens				
+Furniture	stoel_poot				
+Furniture	stoel_rugvlak				
+Furniture	stoel_stoffering				
+Furniture	stoel_zitvlak				
+Furniture	tafel				
+Furniture	tafel_blad				
+Furniture	tafel_glas				
+Furniture	tafel_poot				
+Furniture	tafel_voet				
+Furniture	verborgen lijn				
+Furniture System Tags		A--T82__LosseGebruikersInvent	1		
+Furniture Systems		A--L82__LosseGebruikersInvent	1		
+Furniture Systems	functiegebied				
+Furniture Systems	gestippeld				
+Furniture Systems	Hidden Lines				
+Furniture Systems	kast_behuizing				
+Furniture Systems	kast_deur				
+Furniture Systems	kast_frame				
+Furniture Systems	kast_legplank				
+Furniture Systems	kast_paneel				
+Furniture Systems	kast_poot				
+Furniture Tags		A--T82__LosseGebruikersInvent	1		
+Generic Annotations		A--T$01A__Algemeen	1		
+Generic Annotations	0				
+Generic Annotations	Centerline				
+Generic Annotations	doorsnedelijn				
+Generic Annotations	doorsnedepijl				
+Generic Annotations	ster				
+Generic Model Tags		A--T$01A__Algemeen	1		
+Generic Models		A--L$01A__Algemeen	7	A--L$01A__Algemeen	7
+Generic Models	2D Signage Placement Lines				
+Generic Models	balkonplaat				
+Generic Models	baluster				
+Generic Models	beton_prefab				
+Generic Models	betontrap				
+Generic Models	bouwhek				
+Generic Models	dakrand				
+Generic Models	draairichting_stippel				
+Generic Models	draairichting_vol				
+Generic Models	Frame/Mullion Cut	A--L3__Afbouw	2	A--L3__Afbouw	2
+Generic Models	Frame/Mullion Projection	A--L3__Afbouw	2	A--L3__Afbouw	1
+Generic Models	Glass	A--L3__Afbouw	2	A--L3__Afbouw	1
+Generic Models	Glass Cut	A--L3__Afbouw	2	A--L3__Afbouw	1
+Generic Models	Glass Projection	A--L3__Afbouw	2	A--L3__Afbouw	2
+Generic Models	hek_bord				
+Generic Models	hek_frame				
+Generic Models	hek_hout_bord				
+Generic Models	hek_hout_frame				
+Generic Models	Hidden Lines				
+Generic Models	isolatie				
+Generic Models	leuning				
+Generic Models	lichtkoepel_frame				
+Generic Models	lichtkoepel_glas				
+Generic Models	lichtkoepel_kunststof				
+Generic Models	nokvorst				
+Generic Models	Overhead				
+Generic Models	paneel				
+Generic Models	profiel_aluminium				
+Generic Models	raamluik				
+Generic Models	radiator				
+Generic Models	radiator_knop				
+Generic Models	radiator_leiding				
+Generic Models	reling				
+Generic Models	rollaag				
+Generic Models	Signage				
+Generic Models	trap				
+Grid Heads		A--T$07A__Stramien	1		
+Grids		A--L$07A__Stramien	1		
+Guide Grid		A--L$07A__Stramien	1		
+HVAC Zones		A--L50__Mechanische installies	1		
+HVAC Zones	Boundary	A--L50__Mechanische installies	1		
+HVAC Zones	Color Fill	A--L50__Mechanische installies	1		
+HVAC Zones	Interior Fill	A--L50__Mechanische installies	1		
+HVAC Zones	Reference Lines	A--L50__Mechanische installies	1		
+Imports in Families		A--L$01A__Algemeen	7		
+Imports in Families	0				
+Imports in Families	Level 21				
+Imports in Families	Level 21 (Construction)				
+Imports in Families	teksten				
+Internal Area Load Tags		A--T$01A__Algemeen	1		
+Internal Line Load Tags		A--T$01A__Algemeen	1		
+Internal Point Load Tags		A--T$01A__Algemeen	1		
+Keynote Tags		A--T$01A__Algemeen	1		
+Level Heads		A--T$01A__Algemeen	1		
+Levels		A--L$01A__Algemeen	7		
+Lighting Device Tags		A--T63__InstallatiesE	1		
+Lighting Devices		A--L63__InstallatiesE	1		
+Lighting Fixture Tags		A--T63__InstallatiesE	1		
+Lighting Fixtures		A--L63__InstallatiesE	1		
+Lighting Fixtures	behuizing				
+Lighting Fixtures	draadmodel				
+Lighting Fixtures	hanglamp_behuizing				
+Lighting Fixtures	hanglamp_draad				
+Lighting Fixtures	hanglamp_glas				
+Lighting Fixtures	hanglamp_plafondplaat				
+Lighting Fixtures	Hidden Lines				
+Lighting Fixtures	lamp				
+Lighting Fixtures	lamp_glas				
+Lighting Fixtures	lantaarnpaal				
+Lighting Fixtures	Light Source				
+Lighting Fixtures	plafondlamp_behuizing				
+Lighting Fixtures	plafondlamp_lamp				
+Lighting Fixtures	spotlicht_behuizing				
+Lighting Fixtures	tafellamp_behuizing				
+Lighting Fixtures	tafellamp_pootjes				
+Lighting Fixtures	tafellamp_standaard				
+Lighting Fixtures	tafellamp_stang				
+Lighting Fixtures	tafellamp_voetplaat				
+Lighting Fixtures	tl-lamp_behuizing				
+Lighting Fixtures	tl-lamp_lamp				
+Lighting Fixtures	verlichting				
+Lighting Fixtures	vloerlamp_behuizing				
+Lighting Fixtures	vloerlamp_pootjes				
+Lighting Fixtures	vloerlamp_stang				
+Lighting Fixtures	vloerlamp_voetplaat				
+Lighting Fixtures	wandlamp_behuizing				
+Lighting Fixtures	wandlamp_plaat				
+Lighting Fixtures	wandlamp_stang				
+Line Load Tags		A--T$01A__Algemeen	1		
+Lines		A--LD30__DetailPenMiddel	3		
+Lines	.pen_0.13mm				
+Lines	.pen_0.13mm_stramien				
+Lines	.pen_0.13mm_streep_fijn				
+Lines	.pen_0.13mm_streep_grof				
+Lines	.pen_0.18mm				
+Lines	.pen_0.18mm_stramien				
+Lines	.pen_0.18mm_streep_fijn				
+Lines	.pen_0.18mm_streep_grof				
+Lines	.pen_0.25mm				
+Lines	.pen_0.25mm_stramien				
+Lines	.pen_0.25mm_streep_fijn				
+Lines	.pen_0.25mm_streep_grof				
+Lines	.pen_0.35mm				
+Lines	.pen_0.35mm_stramien				
+Lines	.pen_0.35mm_streep_fijn				
+Lines	.pen_0.35mm_streep_grof				
+Lines	.pen_0.50mm				
+Lines	.pen_0.50mm_stramien				
+Lines	.pen_0.50mm_streep_fijn				
+Lines	.pen_0.50mm_streep_grof				
+Lines	.pen_0.70mm				
+Lines	.pen_0.70mm_stramien				
+Lines	.pen_0.70mm_streep_fijn				
+Lines	.pen_0.70mm_streep_grof				
+Lines	.pen_1.00mm				
+Lines	.pen_1.00mm_stramien				
+Lines	.pen_1.00mm_streep_fijn				
+Lines	.pen_1.00mm_streep_grof				
+Lines	<Area Boundary>	A--LD30__DetailPenMiddel	3		
+Lines	<Beyond>	A--LD21__DetailPenFijnHidden	1		
+Lines	<Centerline>	A--LD21__DetailPenFijnHidden	1		
+Lines	<Demolished>	A--LD21__DetailPenFijnHidden	1		
+Lines	<Hidden>	A--LD21__DetailPenFijnHidden	1		
+Lines	<Overhead>	A--LD20__DetailPenFijn	2		
+Lines	<Revision Cloud>	A--LD20__DetailPenFijn	2		
+Lines	<Room Separation>	A--LD30__DetailPenMiddel	3		
+Lines	<Sketch>	A--LD30__DetailPenMiddel	3		
+Lines	<Space Separation>				
+Lines	Axis of Rotation	A--LD20__DetailPenFijn	2		
+Lines	folie_damp_dicht				
+Lines	folie_damp_open				
+Lines	folie_dpc				
+Lines	folie_lood				
+Lines	Hidden Lines				
+Lines	Insulation Batting Lines	A--LD20__DetailPenFijn	2		
+Lines	Lines	A--LD30__DetailPenMiddel	3		
+Lines	Medium Lines	A--LD30__DetailPenMiddel	3		
+Lines	pen blauw				
+Lines	pen groen				
+Lines	pen rood				
+Lines	pen_blauw				
+Lines	pen_cyaan				
+Lines	pen_donkergrijs				
+Lines	pen_geel				
+Lines	pen_groen				
+Lines	pen_lichtgrijs				
+Lines	pen_magenta				
+Lines	pen_rood				
+Lines	pen_zwart				
+Lines	riolering				
+Lines	Stramienlijn				
+Lines	Thin Lines	A--LD20__DetailPenFijn	2		
+Lines	Wide Lines	A--LD40__DetailPenDik	4		
+Mass		A--L$11A__Volumes	3	A--L$11A__Volumes	3
+Mass	bol				
+Mass	boog				
+Mass	box				
+Mass	buis_gewelf				
+Mass	cilinder				
+Mass	Floor Area Face				
+Mass	Form				
+Mass	Gridlines				
+Mass	Hidden Lines				
+Mass	kegel				
+Mass	koepel				
+Mass	Mass Floor				
+Mass	Nodes				
+Mass	Pattern Fill				
+Mass	Pattern Lines				
+Mass	pirimide				
+Mass	pirimide_afgeknot_verticaal				
+Mass	rechthoek_gedraaid				
+Mass	topgevel				
+Mass	torus				
+Mass	trangel_gelijkzijdig				
+Mass	triangel_recht				
+Mass	triangel_statisch_bepaald				
+Mass Floor Tags		A--T$23A__vloeren	7		
+Mass Tags		A--T$11A__Volumes	1		
+Massing		A--L$11A__Volumes	3	A--L$11A__Volumes	3
+Matchline		A--LD30__DetailPenMiddel	3		
+Material Tags		A--T$01A__Algemeen	1		
+Mechanical Equipment		A--L5__InstallatiesW	7		
+Mechanical Equipment	airconditioning				
+Mechanical Equipment	boiler				
+Mechanical Equipment	brug				
+Mechanical Equipment	Hidden Lines				
+Mechanical Equipment	houtkachel				
+Mechanical Equipment	houtkachel_afvoer				
+Mechanical Equipment	radiator				
+Mechanical Equipment	rijplaat				
+Mechanical Equipment	roltrap_bordes				
+Mechanical Equipment	roltrap_geleider				
+Mechanical Equipment	roltrap_glas				
+Mechanical Equipment	roltrap_handrail				
+Mechanical Equipment	roltrap_railprofiel				
+Mechanical Equipment	roltrap_trede				
+Mechanical Equipment	ventilatie_rooster				
+Mechanical Equipment Tags		A--T5__InstallatiesW	1		
+Multi-Category Tags		A--T$01A__Algemeen	1		
+New		A-NL$01A__Algemeen	7	A-NL$01A__Algemeen	7
+Nurse Call Device Tags		A--T63__InstallatiesE	1		
+Nurse Call Devices		A--L63__InstallatiesE	1		
+Panel Schedule Graphics		A--L3__Afbouw	2		
+Parking		A--L90__Terrein	7		
+Parking	Hidden Lines				
+Parking	parkeerindeling				
+Parking	Parking Layout				
+Parking	Reference Line				
+Parking	streep				
+Parking	Stripe				
+Parking Tags		A--T90__Terrein	1		
+Pipe Accessories		A--L5__InstallatiesW	7		
+Pipe Accessory Tags		A--T5__InstallatiesW	1		
+Pipe Color Fill		A--A5__InstallatiesW	1		
+Pipe Color Fill Legends		A--L$09A__Renvooi	1		
+Pipe Fitting Tags		A--T5__InstallatiesW	1		
+Pipe Fittings		A--L5__InstallatiesW	7		
+Pipe Fittings	Center line				
+Pipe Fittings	Insulation				
+Pipe Tags		A--T5__InstallatiesW	1		
+Pipes		A--L5__InstallatiesW	7		
+Pipes	Center Line				
+Pipes	Drop				
+Pipes	Insulation				
+Pipes	Rise				
+Plan Region		A--LD30__DetailPenMiddel	3		
+Planting		A--L90__Terrein	7		
+Planting	Hidden Lines				
+Planting Tags		A--T90__Terrein	1		
+Plumbing Fixture Tags		A--T74__VasteSanitaireVoorz	1		
+Plumbing Fixtures		A--L74__VasteSanitaireVoorz	1		
+Plumbing Fixtures	bad				
+Plumbing Fixtures	badkamer_kranen				
+Plumbing Fixtures	badkamer_wasbak				
+Plumbing Fixtures	douchebak				
+Plumbing Fixtures	gasleiding				
+Plumbing Fixtures	hemelwaterafvoer				
+Plumbing Fixtures	Hidden Lines				
+Plumbing Fixtures	keuken_kranen				
+Plumbing Fixtures	keuken_wasbak				
+Plumbing Fixtures	kraan				
+Plumbing Fixtures	luchtkanaal				
+Plumbing Fixtures	rioleringsbuis				
+Plumbing Fixtures	schrobput				
+Plumbing Fixtures	tegels				
+Plumbing Fixtures	toilet				
+Plumbing Fixtures	toilet_bril				
+Plumbing Fixtures	toilet_deksel				
+Plumbing Fixtures	waterleiding				
+Point Load Tags		A--T$01A__Algemeen	1		
+Property Line Segment Tags		A--T90__Terrein	1		
+Property Tags		A--T90__Terrein	1		
+Railing Tags		A--T34__BalustradesLeuningen	1		
+Railings		A--L34__BalustradesLeuningen	1	A--L34__BalustradesLeuningen	1
+Railings	Balusters	A--L34__BalustradesLeuningen	1	A--L34__BalustradesLeuningen	1
+Railings	Hidden Lines				
+Railings	Railings Beyond Cut Line	A--L34__BalustradesLeuningen	1	A--L34__BalustradesLeuningen	1
+Railings	Rails	A--L34__BalustradesLeuningen	1	A--L34__BalustradesLeuningen	1
+Ramps		A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Ramps	Down Arrow	A--T24__TrapenHellingen	1	A--T24__TrapenHellingen	1
+Ramps	DOWN text	A--T24__TrapenHellingen	1	A--T24__TrapenHellingen	1
+Ramps	Hidden Lines				
+Ramps	Incomplete ramps	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Ramps	Ramps Beyond Cut Line	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Ramps	Stringers	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Ramps	Stringers Beyond Cut Line	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Ramps	Up Arrow	A--T24__TrapenHellingen	1	A--T24__TrapenHellingen	1
+Ramps	UP text	A--T24__TrapenHellingen	1	A--T24__TrapenHellingen	1
+Raster Images		A--L$10A__Presentatie	1		
+Reference Lines		A--L$08A__Hulplijnen	6		
+Reference Planes		A--L$08A__Hulplijnen	6		
+Reference Points		A--L$08A__Hulplijnen	6		
+Reference Points	Lines	A--L$08A__Hulplijnen	6		
+Reference Points	Planes	A--L$08A__Hulplijnen	6		
+Reference Points	Points	A--L$08A__Hulplijnen	6		
+Revision Cloud Tags		A--T$01A__Algemeen	1		
+Revision Cloud Tags	wijzigingspijl				
+Revision Clouds		A--L$01A__Algemeen	7		
+Roads		A--L27__Daken	2	A--L27__Daken	2
+Roads	Hidden Lines				
+Roof Tags		A--T27__Daken	7		
+Roofs		A--L27__Daken	2	A--L27__Daken	2
+Roofs	Common Edges				
+Roofs	Curtain Roof Grids	A--L27__Daken	2	A--L27__Daken	2
+Roofs	Cut Pattern	A--A27__Daken	8	A--A27__Daken	8
+Roofs	Fascias	A--L27__Daken	2	A--L27__Daken	2
+Roofs	Finish 1 [4]				
+Roofs	Finish 2 [5]				
+Roofs	Gutters	A--L27__Daken	2	A--L27__Daken	2
+Roofs	Hidden Lines				
+Roofs	Interior Edges				
+Roofs	Membrane Layer				
+Roofs	Roof Soffits	A--L27__Daken	2	A--L27__Daken	2
+Roofs	Structure [1]				
+Roofs	Substrate [2]				
+Roofs	Surface Pattern	A--A27__Daken	8	A--A27__Daken	8
+Roofs	Thermal/Air Layer [3]				
+Room Polylines		A--LR9__AlgVoorz	7		
+Room Tags		A--TR9__AlgVoorz	1		
+Rooms		A--LR9__AlgVoorz	7		
+Rooms	Color Fill	A--AR9__AlgVoorz	1		
+Rooms	Interior Fill	A--AR9__AlgVoorz	1		
+Rooms	Reference	A--LR9__AlgVoorz	7		
+Schedule Graphics		A--L$09A__Renvooi	1		
+Scope Boxes		A--L$08A__Hulplijnen	6		
+Section Boxes		A--L$08A__Hulplijnen	6		
+Sections		A--L$01A__Algemeen	7		
+Security Device Tags		A--T65__Beveiliging	1		
+Security Devices		A--L65__Beveiliging	1		
+Shaft Openings		A--L5__InstallatiesW	7		
+Shaft Openings	Hidden Lines				
+Site		A--L90__Terrein	7	A--L90__Terrein	7
+Site	annotatie				
+Site	auto_banden				
+Site	auto_bumper				
+Site	auto_glas				
+Site	auto_profielen				
+Site	auto_vorm				
+Site	bank				
+Site	bank_frame				
+Site	betonmixer				
+Site	betonmixer_banden				
+Site	betonmixer_bumper				
+Site	betonmixer_cabine				
+Site	betonmixer_glas				
+Site	betonmixer_mixer				
+Site	betonmixer_profiel				
+Site	bouwkeet				
+Site	bouwkeet_banden				
+Site	bouwkeet_dak				
+Site	bouwkeet_vloer				
+Site	bouwkraan				
+Site	bouwkraan_cabine				
+Site	bouwkraan_kraan				
+Site	bouwkraan_rupsbanden				
+Site	brandkraan				
+Site	bushalte_constructie				
+Site	bushalte_dak				
+Site	bushalte_glas				
+Site	bushalte_paal				
+Site	bushalte_plaat				
+Site	bushalte_zitplaatsen				
+Site	camera				
+Site	camera_statief				
+Site	container				
+Site	container_deur				
+Site	fietsenrek				
+Site	hek_hout_bord				
+Site	hek_hout_frame				
+Site	hek_stijlen				
+Site	hek_tussenruimte				
+Site	Hidden Lines				
+Site	Landscape				
+Site	mobiele_toilet_cabine				
+Site	mobiele_toilet_dak				
+Site	mobiele_toilet_deur				
+Site	paal				
+Site	Pads	A--L90__Terrein	7	A--L90__Terrein	7
+Site	parkeereiland				
+Site	parkeereiland_rand				
+Site	Parking Layout				
+Site	plantenbak				
+Site	Project Base Point				
+Site	Property	A--L90__Terrein	7	A--L90__Terrein	7
+Site	Property Lines				
+Site	stijger_frame				
+Site	Stripe				
+Site	Survey Point				
+Site	Utilities				
+Site	vlaggenmast				
+Site	vuilnisbak				
+Site	vuilnisbak_wielen				
+Site Tags		A--T90__Terrein	1		
+Space Tags		A--TAE__Gebieden en oppervlakten	7		
+Spaces		A--LAE__Gebieden en oppervlakten	6		
+Spaces	Color Fill	A--LAE__Gebieden en oppervlakten	6		
+Spaces	Interior	A--LAE__Gebieden en oppervlakten	6		
+Spaces	Reference	A--LAE__Gebieden en oppervlakten	6		
+Span Direction Symbol		A--LR9__AlgVoorz	7		
+Specialty Equipment		A--L8__LosseInventaris	1		
+Specialty Equipment	drinkmachine				
+Specialty Equipment	drinkmachine_besturingspaneel				
+Specialty Equipment	drinkmachine_pootjes				
+Specialty Equipment	Hidden Lines				
+Specialty Equipment	keuken_afzuigkap				
+Specialty Equipment	keuken_behuizing				
+Specialty Equipment	keuken_glas				
+Specialty Equipment	keuken_handvaten				
+Specialty Equipment	keuken_knoppen				
+Specialty Equipment	keuken_metalen_onderdelen				
+Specialty Equipment	keuken_pannendrager				
+Specialty Equipment	keuken_plint				
+Specialty Equipment	keuken_poten				
+Specialty Equipment	keuken_strips				
+Specialty Equipment	keuken_voorpaneel				
+Specialty Equipment	lift				
+Specialty Equipment	rookmelder				
+Specialty Equipment	snoepmachine				
+Specialty Equipment	snoepmachine_besturingspaneel				
+Specialty Equipment	snoepmachine_glas				
+Specialty Equipment	snoepmachine_pootjes				
+Specialty Equipment	ventilatie_bladen				
+Specialty Equipment	ventilator				
+Specialty Equipment Tags		A--T8__LosseInventaris	1		
+Spot Coordinates		A--T$01A__Algemeen	1		
+Spot Elevations		A--L$01A__Algemeen	7		
+Spot Slopes		A--L$01A__Algemeen	7		
+Sprinkler Tags		A--T50__Mechanische installaties	2		
+Sprinklers		A--L50__Mechanische installaties	1		
+Stair Tags		A--T24__TrapenHellingen	1		
+Stairs		A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	betontrap				
+Stairs	Down Arrow	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	DOWN Text	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	Hidden Lines				
+Stairs	Incomplete Stairs	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	Stairs Beyond Cut Line	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	Stringers	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	Stringers Beyond Cut Line	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	Up Arrow	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Stairs	UP Text	A--L24__TrapenHellingen	1	A--L24__TrapenHellingen	1
+Structural Annotations		A--L28__Hoofddraagconstructies	3		
+Structural Area Reinforcement		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Area Reinforcement	Boundary				
+Structural Area Reinforcement	Cross Symbol				
+Structural Area Reinforcement Symbols		A--L28__Hoofddraagconstructies	3		
+Structural Area Reinforcement Tags		A--T28__Hoofddraagconstructies	1		
+Structural Beam System Tags		A--T28__Hoofddraagconstructies	1		
+Structural Beam Systems		A--L28__Hoofddraagconstructies	3		
+Structural Beam Systems	Hidden Lines				
+Structural Column Tags		A--T28__Hoofddraagconstructies	1		
+Structural Columns		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Columns	Analytical Model				
+Structural Columns	betonkolom				
+Structural Columns	constructiehout				
+Structural Columns	gevelpaneel				
+Structural Columns	Hidden Faces				
+Structural Columns	Hidden Lines	A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Columns	houten_kolom				
+Structural Columns	prefab_betonkolom				
+Structural Columns	prefab_console				
+Structural Columns	prefab_element				
+Structural Columns	Rigid Links				
+Structural Columns	sandwichpaneel				
+Structural Columns	sandwichpaneel_gestippeld				
+Structural Columns	stalen_kolom				
+Structural Columns	stalen_kolom_hartlijn				
+Structural Columns	Stick Symbols				
+Structural Connection Tags		A--T28__Hoofddraagconstructies	1		
+Structural Connections		A--L28__Hoofddraagconstructies	3		
+Structural Foundation Tags		A--T28__Hoofddraagconstructies	1		
+Structural Foundations		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Foundations	Analytical Model				
+Structural Foundations	betonfundering				
+Structural Foundations	funderingsbalk				
+Structural Foundations	funderingskesp				
+Structural Foundations	funderingspoer				
+Structural Foundations	Hidden Lines	A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Foundations	isolatie_fundering				
+Structural Foundations	keermuur				
+Structural Foundations	paal_beton				
+Structural Foundations	paal_hp_staal				
+Structural Foundations	paal_staal				
+Structural Foundations	prefab_funderingsbalk				
+Structural Foundations	ps_isolatie				
+Structural Foundations	stalen_damwand				
+Structural Framing		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Framing	Analytical Model				
+Structural Framing	betonbalk				
+Structural Framing	betonvloer				
+Structural Framing	Chord				
+Structural Framing	constructiehout				
+Structural Framing	funderingsbalk				
+Structural Framing	Girder				
+Structural Framing	Hidden Faces				
+Structural Framing	Hidden Lines	A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Framing	Horizontal Bracing				
+Structural Framing	houten_balk				
+Structural Framing	houten_dubbele_hangspant				
+Structural Framing	houten_gording				
+Structural Framing	houten_hoekkeper				
+Structural Framing	houten_kilkeper				
+Structural Framing	houten_muurplaat				
+Structural Framing	houten_nokgording				
+Structural Framing	houten_spoor				
+Structural Framing	isolatie_vloer				
+Structural Framing	isolatievloer				
+Structural Framing	Joist				
+Structural Framing	Kicker Bracing				
+Structural Framing	Other				
+Structural Framing	prefab_betonafdekband				
+Structural Framing	prefab_betonbalk				
+Structural Framing	prefab_betonlatei				
+Structural Framing	prefab_betonvloer				
+Structural Framing	prefab_funderingsbalk				
+Structural Framing	Purlin				
+Structural Framing	Rigid Links				
+Structural Framing	sandwichpaneel				
+Structural Framing	sandwichpaneel_gestippeld				
+Structural Framing	spant_hout				
+Structural Framing	spant_staal				
+Structural Framing	staalprofiel				
+Structural Framing	stalen_balk				
+Structural Framing	stalen_balk_hartlijn				
+Structural Framing	stalen_balk_vloer				
+Structural Framing	stalen_gording				
+Structural Framing	stalen_plaat				
+Structural Framing	stalen_staaf				
+Structural Framing	stalton_latei_beton				
+Structural Framing	stalton_latei_keramisch				
+Structural Framing	Stick Symbols				
+Structural Framing	Vertical Bracing				
+Structural Framing	Web				
+Structural Framing Tags		A--T28__Hoofddraagconstructies	1		
+Structural Internal Loads		A--L28__Hoofddraagconstructies	3		
+Structural Internal Loads	Internal Area Loads				
+Structural Internal Loads	Internal Line Loads				
+Structural Internal Loads	Internal Point Loads				
+Structural Load Cases		A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Accidental Loads	A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Dead Loads	A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Live Loads	A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Roof Live Loads	A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Seismic Loads	A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Snow Loads	A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Temperature Loads	A--L28__Hoofddraagconstructies	3		
+Structural Load Cases	Wind Loads	A--L28__Hoofddraagconstructies	3		
+Structural Loads		A--L28__Hoofddraagconstructies	3		
+Structural Loads	Area Loads	A--L28__Hoofddraagconstructies	3		
+Structural Loads	Line Loads	A--L28__Hoofddraagconstructies	3		
+Structural Loads	Point Loads	A--L28__Hoofddraagconstructies	3		
+Structural Path Reinforcement		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Path Reinforcement	Boundary				
+Structural Path Reinforcement Symbols		A--L28__Hoofddraagconstructies	3		
+Structural Path Reinforcement Tags		A--T28__Hoofddraagconstructies	1		
+Structural Rebar		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Rebar Tags		A--T28__Hoofddraagconstructies	1		
+Structural Stiffener Tags		A--T28__Hoofddraagconstructies	1		
+Structural Stiffeners		A--L28__Hoofddraagconstructies	3	A--L28__Hoofddraagconstructies	3
+Structural Truss Tags		A--T28__Hoofddraagconstructies	1		
+Structural Trusses		A--L28__Hoofddraagconstructies	3		
+Structural Trusses	Stick Symbols	A--T28__Hoofddraagconstructies	1		
+Telephone Device Tags		A--T64__Communicatie	1		
+Telephone Devices		A--T64__Communicatie	1		
+Temporary		A-TLR9__AlgVoorz	1	A-TLR9__AlgVoorz	1
+Text Notes		A--T$01A__Algemeen	1		
+Title Blocks		A--L$04A__Stempel	6		
+Title Blocks	0				
+Title Blocks	DarkGrey				
+Title Blocks	Medium Lines	A--L$04A__Stempel	6		
+Title Blocks	Teal				
+Title Blocks	Thin Lines	A--L$04A__Stempel	6		
+Title Blocks	Wide Lines	A--L$04A__Stempel	6		
+Topography		A--L90__Terrein	7	A--L90__Terrein	7
+Topography	Boundary Point	A--L90__Terrein	7	A--L90__Terrein	7
+Topography	Hidden Lines				
+Topography	Interior Point	A--L90__Terrein	7	A--L90__Terrein	7
+Topography	Primary Contours	A--L90__Terrein	7	A--L90__Terrein	7
+Topography	Secondary Contours	A--L90__Terrein	7	A--L90__Terrein	7
+Topography	Triangulation Edges	A--L90__Terrein	7	A--L90__Terrein	7
+trappen 2008.dwg		A--L24__TrapenHellingen	1		
+View Reference		A--T$01A__Algemeen	1		
+View Titles		A--T$01A__Algemeen	1		
+Viewports		A--L$03A__V-ports	6		
+Wall Tags		A--T2__Ruwbouw	1		
+Walls		A--L2__Ruwbouw	3	A--L2__Ruwbouw	3
+Walls	Analytical Model				
+Walls	Common Edges				
+Walls	Curtain Wall Grids	A--L2__Ruwbouw	3	A--L2__Ruwbouw	3
+Walls	Cut Pattern	A--A2__Ruwbouw	8	A--A2__Ruwbouw	8
+Walls	Finish 1 [4]				
+Walls	Finish 2 [5]				
+Walls	Hidden Lines	A--L2__Ruwbouw	3	A--L2__Ruwbouw	3
+Walls	Membrane Layer				
+Walls	Structure [1]				
+Walls	Substrate [2]				
+Walls	Surface Pattern	A--A2__Ruwbouw	8	A--A2__Ruwbouw	8
+Walls	Thermal/Air Layer [3]				
+Walls	Wall Sweep - Cornice				
+Walls	Wall Sweeps				
+Walls/Interior:1		A--L22__Binnenwanden	2	A--L22__Binnenwanden	2
+Walls/Exterior:2		A--L21__Buitenwanden	3	A--L21__Buitenwanden	3
+Walls/Foundation:3		A--L16__Funderingconstructies	2	A--L16__Funderingconstructies	2
+Walls/Retaining:4		A--L2__Ruwbouw	2	A--L2__Ruwbouw	2
+Window Tags		A--T3__Afbouw	1		
+Windows		A--L3__Afbouw	2	A--L3__Afbouw	2
+Windows	afdeklijst				
+Windows	betonlatei				
+Windows	Cavity Closer				
+Windows	Draairichting  raamkozijn				
+Windows	draairichting binnen				
+Windows	draairichting buiten				
+Windows	Draairichting dicht				
+Windows	Draairichting open				
+Windows	draairichting plattegrond				
+Windows	Draairichting raamkozijn				
+Windows	Elevation Swing				
+Windows	Frame/Mullion	A--L3__Afbouw	2	A--L3__Afbouw	2
+Windows	glas				
+Windows	Glass	A--L3__Afbouw	2	A--L3__Afbouw	2
+Windows	Glazing Bars				
+Windows	Hidden Lines				
+Windows	latei				
+Windows	Moulding				
+Windows	Opening	A--L3__Afbouw	2	A--L3__Afbouw	2
+Windows	paneel				
+Windows	Plan Swing				
+Windows	raamdorpelsteen				
+Windows	raamhout				
+Windows	rollaag				
+Windows	Sill/Head	A--L3__Afbouw	1	A--L3__Afbouw	1
+Windows	spouwlat				
+Windows	stijl_dorpel_aluminium				
+Windows	stijl_dorpel_hout				
+Windows	stijl_dorpel_kunststof				
+Windows	stijl_dorpel_staal				
+Windows	tochtprofiel				
+Windows	Trim				
+Windows	vensterbank				
+Windows	waterslag				
+Wire Tag		A--T6__InstallatiesE	1		
+Wire Tick Marks		A--T6__InstallatiesE	1		
+Wires		A--L6__InstallatiesE	1		
+Wires	Home Run Arrows				
+Wires	Wire Tick Marks				
+Zone Tags		A--TAE__Gebieden en oppervlakten	7		
